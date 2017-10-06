@@ -15,7 +15,7 @@ app.use(bodyParser.json())
 
 // index
 app.get('/', function (req, res) {
-  res.send('Thiết lập webhook thành công! Made by Tam Nguyen.')
+  res.send('Thiết lập webhook thành công!')
 })
 
 // for facebook verification
