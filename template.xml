@@ -1,0 +1,489 @@
+<!-- Món ăn ở Cần Thơ -->
+
+<!-- Ăn gì ở Cần Thơ -->
+<category>
+	<pattern>Ăn gì ở Cần Thơ</pattern>
+	<template>
+		Lẩu mắm Dạ Lý: đường 3/2
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn gì ở Cần Thơ</pattern>
+	<template>
+		Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn gì ở Cần Thơ</pattern>
+	<template>
+		Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn gì ở Cần Thơ</pattern>
+	<template>
+		Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn gì ở Cần Thơ</pattern>
+	<template>
+		Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều
+	</template>
+</category>
+
+<!-- Ăn cái gì ở Cần Thơ -->
+<category>
+	<pattern>Ăn cái gì ở Cần Thơ</pattern>
+	<template>
+		Lẩu mắm Dạ Lý: đường 3/2
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn cái gì ở Cần Thơ</pattern>
+	<template>
+		Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn cái gì ở Cần Thơ</pattern>
+	<template>
+		Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn cái gì ở Cần Thơ</pattern>
+	<template>
+		Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn cái gì ở Cần Thơ</pattern>
+	<template>
+		Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều
+	</template>
+</category>
+
+
+<!-- Ăn cái chi ở Cần Thơ -->
+<category>
+	<pattern>Ăn cái chi ở Cần Thơ</pattern>
+	<template>
+		Lẩu mắm Dạ Lý: đường 3/2
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn cái chi ở Cần Thơ</pattern>
+	<template>
+		Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn cái chi ở Cần Thơ</pattern>
+	<template>
+		Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn cái chi ở Cần Thơ</pattern>
+	<template>
+		Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn cái chi ở Cần Thơ</pattern>
+	<template>
+		Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều
+	</template>
+</category>
+
+
+<!-- Ăn gì khi du lịch Cần Thơ -->
+<category>
+	<pattern>Ăn gì khi du lịch Cần Thơ</pattern>
+	<template>
+		Lẩu mắm Dạ Lý: đường 3/2
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn gì khi du lịch Cần Thơ</pattern>
+	<template>
+		Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn gì khi du lịch Cần Thơ</pattern>
+	<template>
+		Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn gì khi du lịch Cần Thơ</pattern>
+	<template>
+		Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Ăn gì khi du lịch Cần Thơ</pattern>
+	<template>
+		Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều
+	</template>
+</category>
+
+
+<!-- Món ngon bổ rẻ ở Cần Thơ -->
+<category>
+	<pattern>Món ngon bổ rẻ ở Cần Thơ</pattern>
+	<template>
+		Lẩu mắm Dạ Lý: đường 3/2
+	</template>
+</category>
+
+<category>
+	<pattern>Món ngon bổ rẻ ở Cần Thơ</pattern>
+	<template>
+		Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng
+	</template>
+</category>
+
+<category>
+	<pattern>Món ngon bổ rẻ ở Cần Thơ</pattern>
+	<template>
+		Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều
+	</template>
+</category>
+
+<category>
+	<pattern>Món ngon bổ rẻ ở Cần Thơ</pattern>
+	<template>
+		Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Món ngon bổ rẻ ở Cần Thơ</pattern>
+	<template>
+		Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều
+	</template>
+</category>
+
+
+<!-- Đặc sản của Cần Thơ là gì -->
+<category>
+	<pattern>Đặc sản của Cần Thơ là gì</pattern>
+	<template>
+		Lẩu mắm Dạ Lý: đường 3/2
+	</template>
+</category>
+
+<category>
+	<pattern>Đặc sản của Cần Thơ là gì</pattern>
+	<template>
+		Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng
+	</template>
+</category>
+
+<category>
+	<pattern>Đặc sản của Cần Thơ là gì</pattern>
+	<template>
+		Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều
+	</template>
+</category>
+
+<category>
+	<pattern>Đặc sản của Cần Thơ là gì</pattern>
+	<template>
+		Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Đặc sản của Cần Thơ là gì</pattern>
+	<template>
+		Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều
+	</template>
+</category>
+
+
+<!-- Tới Cần Thơ ăn cái gì -->
+<category>
+	<pattern>Tới Cần Thơ ăn cái gì</pattern>
+	<template>
+		Lẩu mắm Dạ Lý: đường 3/2
+	</template>
+</category>
+
+<category>
+	<pattern>Tới Cần Thơ ăn cái gì</pattern>
+	<template>
+		Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng
+	</template>
+</category>
+
+<category>
+	<pattern>Tới Cần Thơ ăn cái gì</pattern>
+	<template>
+		Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều
+	</template>
+</category>
+
+<category>
+	<pattern>Tới Cần Thơ ăn cái gì</pattern>
+	<template>
+		Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Tới Cần Thơ ăn cái gì</pattern>
+	<template>
+		Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều
+	</template>
+</category>
+
+
+<!-- Đến Cần Thơ ăn món gì -->
+<category>
+	<pattern>Đến Cần Thơ ăn món gì</pattern>
+	<template>
+		Lẩu mắm Dạ Lý: đường 3/2
+	</template>
+</category>
+
+<category>
+	<pattern>Tới Cần Thơ ăn món gì</pattern>
+	<template>
+		Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng
+	</template>
+</category>
+
+<category>
+	<pattern>Tới Cần Thơ ăn những món gì</pattern>
+	<template>
+		Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều
+	</template>
+</category>
+
+<category>
+	<pattern>Đến Cần Thơ ăn cái gì</pattern>
+	<template>
+		Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Đến Cần Thơ ăn gì</pattern>
+	<template>
+		Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều
+	</template>
+</category>
+
+<!-- Đến Cần Thơ ăn món gì -->
+<category>
+	<pattern>Đến Cần Thơ ăn món gì</pattern>
+	<template>
+		Lẩu mắm Dạ Lý: đường 3/2
+	</template>
+</category>
+
+<category>
+	<pattern>Tới Cần Thơ ăn món gì</pattern>
+	<template>
+		Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng
+	</template>
+</category>
+
+<category>
+	<pattern>Tới Cần Thơ ăn những món gì</pattern>
+	<template>
+		Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều
+	</template>
+</category>
+
+<category>
+	<pattern>Đến Cần Thơ ăn cái gì</pattern>
+	<template>
+		Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Đến Cần Thơ ăn gì</pattern>
+	<template>
+		Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều
+	</template>
+</category>
+
+
+<!-- Đến Cần Thơ ăn những món gì -->
+<category>
+	<pattern>Đến Cần Thơ ăn những món gì</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Nên ăn gì khi du lịch Cần Thơ</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Nên ăn món gì khi du lịch Cần Thơ</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Đặc sản ở Cần Thơ là gì</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Món đặc sản ở Cần Thơ là gì</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Đặc sản ở Cần Thơ</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Món đặc sản ở Cần Thơ</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Du lịch Cần Thơ thì ăn gì</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Du lịch Cần Thơ thì ăn món gì</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Du lịch Cần Thơ thì ăn những món gì</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Các món ngon ở Cần Thơ</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Các món ăn ngon ở Cần Thơ</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Những món ăn ngon ở Cần Thơ</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Những món ngon ở Cần Thơ</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Món ngon ở Cần Thơ</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Món ăn ngon ở Cần Thơ</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Món ăn ngon Cần Thơ</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Món ngon Cần Thơ</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Cần Thơ có món gì ngon</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Cần Thơ có món nào ngon</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Cần Thơ có món ăn gì ngon</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<category>
+	<pattern>Cần Thơ có món ăn nào ngon</pattern>
+	<template>
+		SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
+	</template>
+</category>
+
+<!-- Địa điểm đi chơi ở Cần Thơ
