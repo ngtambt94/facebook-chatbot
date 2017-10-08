@@ -1,24 +1,5 @@
 'use strict'
 
-AIMLInterpreter = require('./node_modules/aimlinterpreter/AIMLInterpreter');
-
-var aimlInterpreter = new AIMLInterpreter({name:'WireInterpreter', age:'42'});
-aimlInterpreter.loadAIMLFilesIntoArray(['./template.xml']);
-
-var callback = function(answer, wildCardArray, input){
-    console.log(answer + ' | ' + wildCardArray + ' | ' + input);
-};
-
-var caseCallback = function(answer, wildCardArray, input){
-  if (answer == this) {
-    console.log(answer + ' | ' + wildCardArray + ' | ' + input);
-  } else {
-    console.log('ERROR:', answer);
-    console.log('   Expected:', this.toString());
-  }
-};
-
-
 const express = require('express')
 const bodyParser = require('body-parser')
 const request = require('request')
@@ -78,7 +59,7 @@ app.post('/webhook', function (req, res) {
         sendTextMessage(sender, "Quyen Tran là bạn gái của Tam Nguyen")
       }
       else
-        aimlInterpreter.findAnswerInLoadedAIMLFiles('Ăn gì ở Cần Thơ', callback);
+        sendTextMessage(sender, "Xin lỗi! Mình chưa hiểu ý của bạn")
     }
     if (event.postback) {
       let text = JSON.stringify(event.postback)
