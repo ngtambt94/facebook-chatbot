@@ -1,6 +1,6 @@
 'use strict'
 
-AIMLInterpreter = require('./AIMLInterpreter');
+AIMLInterpreter = require('./node_modules/aimlinterpreter/AIMLInterpreter');
 
 var aimlInterpreter = new AIMLInterpreter({name:'WireInterpreter', age:'42'});
 aimlInterpreter.loadAIMLFilesIntoArray(['./template.xml']);
