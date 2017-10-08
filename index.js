@@ -5,6 +5,25 @@ const bodyParser = require('body-parser')
 const request = require('request')
 const app = express()
 
+// aiml
+AIMLInterpreter = require('./AIMLInterpreter');
+
+var aimlInterpreter = new AIMLInterpreter({name:'Tam Nguyen', age:'23'});
+aimlInterpreter.loadAIMLFilesIntoArray(['./template.xml']);
+
+var callback = function(answer, wildCardArray, input){
+    console.log(answer + ' | ' + wildCardArray + ' | ' + input);
+};
+
+var caseCallback = function(answer, wildCardArray, input){
+  if (answer == this) {
+    console.log(answer + ' | ' + wildCardArray + ' | ' + input);
+  } else {
+    console.log('ERROR:', answer);
+    console.log('   Expected:', this.toString());
+  }
+};
+
 app.set('port', (process.env.PORT || 5000))
 
 // parse application/x-www-form-urlencoded

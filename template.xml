@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <aiml>
 	<!-- Món ăn ở Cần Thơ -->
 
@@ -486,6 +487,6 @@
 			SELECT food_ten from foods a, localfoods b, places c where a.food_id = b.b.food_id and b.place_id = c.place_id and c.place_ten = Cần Thơ
 		</template>
 	</category>
-	
+
 </aiml>
 <!-- Địa điểm đi chơi ở Cần Thơ
