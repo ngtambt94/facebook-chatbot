@@ -6,7 +6,7 @@ const request = require('request')
 const app = express()
 
 // aiml
-AIMLInterpreter = require('./AIMLInterpreter');
+AIMLInterpreter = require('./node_modules/aimlinterpreter/AIMLInterpreter');
 
 var aimlInterpreter = new AIMLInterpreter({name:'Tam Nguyen', age:'23'});
 aimlInterpreter.loadAIMLFilesIntoArray(['./template.xml']);
