@@ -1,13 +1,20 @@
+// aiml
+AIMLInterpreter = require('./node_modules/aimlinterpreter/AIMLInterpreter');
+
+var aimlInterpreter = new AIMLInterpreter({name:'Tam Nguyen', age:'23'});
+aimlInterpreter.loadAIMLFilesIntoArray(['./aiml.xml']);
+
+var callback = function(answer, wildCardArray, input){
+    console.log(answer);
+};
+
+// messenger facebook
 'use strict'
 
 const express = require('express')
 const bodyParser = require('body-parser')
 const request = require('request')
 const app = express()
-
-// aiml
-
-
 
 app.set('port', (process.env.PORT || 5000))
 
@@ -39,36 +46,7 @@ app.post('/webhook', function (req, res) {
     let sender = event.sender.id
     if (event.message && event.message.text) {
       let text = event.message.text
-      if (text === 'Generic' || text === 'generic' || text === 'help' || text === 'Help' || text === 'menu' || text === 'Menu'){ 
-        // console.log("welcome to chatbot")
-        sendGenericMessage(sender)
-        // continue
-      }
-      else if (text == 'image' || text == 'Image') {
-        sendImageMessage(sender)
-      }
-      else if (text == 'audio' || text == 'Audio') {
-        sendAudioMessage(sender)
-      }
-      else if (text == 'video' || text == 'Video') {
-        sendVideoMessage(sender)
-      }
-      else if (text == "hi" || text == "hello" || text == "xin chào" || text == "chào" || text == "halo" || text == "hii") {
-        sendTextMessage(sender, "Xin chào! Mình có thể giúp gì cho bạn?")
-      }
-      else if (text == "bạn gái mình tên gì" || text == "Bạn gái mình tên gì"){
-        sendTextMessage(sender, "Quyen Tran")
-      }
-      else if (text == "Quyen Tran là ai" || text == "quyen tran là ai") {
-        sendTextMessage(sender, "Quyen Tran là bạn gái của Tam Nguyen")
-      }
-      else
-        sendTextMessage(sender, "Xin lỗi! Mình chưa hiểu ý của bạn")
-    }
-    if (event.postback) {
-      let text = JSON.stringify(event.postback)
-      sendTextMessage(sender, "Postback received: "+text.substring(0, 200), token)
-      continue
+      aimlInterpreter.findAnswerInLoadedAIMLFiles(text, callback);
     }
   }
   res.sendStatus(200)
