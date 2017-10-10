@@ -46,8 +46,9 @@ app.post('/webhook', function (req, res) {
     let sender = event.sender.id
     if (event.message && event.message.text) {
       let text = event.message.text
-      let reply = aimlInterpreter.findAnswerInLoadedAIMLFiles(text, callback)
-      sendTextMessage(sender, reply)
+      // let reply = aimlInterpreter.findAnswerInLoadedAIMLFiles(text, callback)
+      let x = "halo"
+      sendTextMessage(sender, x)
     }
   }
   res.sendStatus(200)
