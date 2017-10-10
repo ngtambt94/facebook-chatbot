@@ -5,7 +5,8 @@ var aimlInterpreter = new AIMLInterpreter({name:'Tam Nguyen', age:'23'});
 aimlInterpreter.loadAIMLFilesIntoArray(['./aiml.xml']);
 
 var callback = function(answer, wildCardArray, input){
-    console.log(answer);
+    // console.log(answer);
+    sendTextMessage(sender, answer);
 };
 
 // messenger facebook
@@ -46,9 +47,9 @@ app.post('/webhook', function (req, res) {
     let sender = event.sender.id
     if (event.message && event.message.text) {
       let text = event.message.text
-      // aimlInterpreter.findAnswerInLoadedAIMLFiles(text, callback)
-      let x = "halo"
-      sendTextMessage(sender, x)
+      aimlInterpreter.findAnswerInLoadedAIMLFiles(text, callback)
+      // let x = "halo"
+      // sendTextMessage(sender, x)
     }
   }
   res.sendStatus(200)
