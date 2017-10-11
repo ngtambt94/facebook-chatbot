@@ -25,7 +25,37 @@
 		</template>
 	</category>
 	<category>
+		<pattern>HI</pattern>
+		<template>
+			Xin chào! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>HELLO</pattern>
+		<template>
+			Xin chào! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>HALO</pattern>
+		<template>
+			Xin chào! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>HELO</pattern>
+		<template>
+			Xin chào! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
 		<pattern>ĂN GÌ Ở CẦN THƠ</pattern>
+		<template>
+			Lẩu mắm Dạ Lý: đường 3/2
+		</template>
+	</category>
+	<category>
+		<pattern>AN GI O CAN THO</pattern>
 		<template>
 			Lẩu mắm Dạ Lý: đường 3/2
 		</template>
