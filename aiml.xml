@@ -3,7 +3,11 @@
 	<category>
 		<pattern>XIN CHAO</pattern>
 		<template>
-			Xin chào! Mình là 2TQ Chatbot
+			<random>
+				<li>Xin chào! Mình là 2TQ Chatbot</li>
+				<li>Hi bạn!</li>
+				<li>Chào mừng bạn trở lại</li>
+			</random>	
 		</template>
 	</category>
 	<category>
@@ -15,19 +19,19 @@
 	<category>
 		<pattern>CHAO</pattern>
 		<template>
-			2TQ Chatbot chào bạn.
+			Mừng bạn trở lại
 		</template>
 	</category>
 	<category>
 		<pattern>CHÀO</pattern>
 		<template>
-			Ơn giời bạn đã trở lại rồi.
+			Mừng bạn trở lại
 		</template>
 	</category>
 	<category>
 		<pattern>HI</pattern>
 		<template>
-			Ơn giời bạn đã trở lại rồi.
+			Mừng bạn trở lại
 		</template>
 	</category>
 	<category>
