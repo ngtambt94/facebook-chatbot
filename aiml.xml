@@ -7,7 +7,19 @@
 		</template>
 	</category>
 	<category>
+		<pattern>XIN CHAO AD</pattern>
+		<template>
+			Xin chào! Mình có thể giúp gì cho bạn?
+		</template>
+	</category>
+	<category>
 		<pattern>XIN CHÀO</pattern>
+		<template>
+			Xin chào! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>XIN CHÀO AD</pattern>
 		<template>
 			Xin chào! Mình là 2TQ Chatbot.
 		</template>
@@ -19,7 +31,19 @@
 		</template>
 	</category>
 	<category>
+		<pattern>CHAO AD</pattern>
+		<template>
+			Mừng bạn trở lại
+		</template>
+	</category>
+	<category>
 		<pattern>CHÀO</pattern>
+		<template>
+			Mừng bạn trở lại
+		</template>
+	</category>
+	<category>
+		<pattern>CHÀO AD</pattern>
 		<template>
 			Mừng bạn trở lại
 		</template>
@@ -31,7 +55,19 @@
 		</template>
 	</category>
 	<category>
+		<pattern>HI AD</pattern>
+		<template>
+			Hi! Mừng bạn trở lại
+		</template>
+	</category>
+	<category>
 		<pattern>HII</pattern>
+		<template>
+			Hii! Chào mừng bạn trở lại.
+		</template>
+	</category>
+	<category>
+		<pattern>HII AD</pattern>
 		<template>
 			Hii! Chào mừng bạn trở lại.
 		</template>
@@ -43,7 +79,19 @@
 		</template>
 	</category>
 	<category>
+		<pattern>HELLO AD</pattern>
+		<template>
+			Xin chào! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
 		<pattern>HALO</pattern>
+		<template>
+			Halo! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>HALO AD</pattern>
 		<template>
 			Halo! Mình là 2TQ Chatbot.
 		</template>
@@ -51,7 +99,43 @@
 	<category>
 		<pattern>HELO</pattern>
 		<template>
-			Xin chào! Mình là 2TQ Chatbot.
+			Hello bạn! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>HELO AD</pattern>
+		<template>
+			Hello bạn! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>HELP</pattern>
+		<template>
+			Hi bạn! Bạn cần giúp gì?
+		</template>
+	</category>
+	<category>
+		<pattern>HELP ME</pattern>
+		<template>
+			Hi bạn! Bạn cần giúp gì?
+		</template>
+	</category>
+	<category>
+		<pattern>HELP ME PLEASE</pattern>
+		<template>
+			Hi bạn! Bạn cần giúp gì?
+		</template>
+	</category>
+	<category>
+		<pattern>CAN YOU HELP ME</pattern>
+		<template>
+			Hi bạn! Bạn cần giúp gì?
+		</template>
+	</category>
+	<category>
+		<pattern> I NEED YOUR HELP</pattern>
+		<template>
+			Hi bạn! Bạn cần giúp gì?
 		</template>
 	</category>
 	<category>
