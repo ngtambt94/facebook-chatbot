@@ -4,10 +4,10 @@ AIMLInterpreter = require('./node_modules/aimlinterpreter/AIMLInterpreter');
 var aimlInterpreter = new AIMLInterpreter({name:'Tam Nguyen', age:'23'});
 aimlInterpreter.loadAIMLFilesIntoArray(['./aiml.xml']);
 
-// var callback = function(answer, wildCardArray, input){
-//     // console.log(answer);
-//     sendTextMessage(sender, answer);
-// };
+var callback = function(answer, wildCardArray, input){
+    // console.log(answer);
+    sendTextMessage(sender, answer);
+};
 
 // messenger facebook
 'use strict'
@@ -45,14 +45,12 @@ app.post('/webhook', function (req, res) {
   for (let i = 0; i < messaging_events.length; i++) {
     let event = req.body.entry[0].messaging[i]
     let sender = event.sender.id
-    if (event.message && event.message.text) {
-      let text = event.message.text;
-
-      var callback = function(answer, wildCardArray, input){
+    var callback = function(answer, wildCardArray, input){
         // console.log(answer);
         sendTextMessage(sender, answer);
       };
-
+    if (event.message && event.message.text) {
+      let text = event.message.text;
       aimlInterpreter.findAnswerInLoadedAIMLFiles(text, callback)
       // let x = "halo"
       // sendTextMessage(sender, x)
