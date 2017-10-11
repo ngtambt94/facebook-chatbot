@@ -3,6 +3,7 @@
 	<category>
 		<pattern>XIN CHAO</pattern>
 		<template>
+			<think><set name="a"></set></think>
 			<random>
 				<li>Xin chào! Mình là 2TQ Chatbot</li>
 				<li>Hi bạn!</li>
