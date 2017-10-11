@@ -6,5 +6,29 @@
 			Xin chào! Mình là 2TQ Chatbot.
 		</template>
 	</category>
+	<category>
+		<pattern>XIN CHÀO</pattern>
+		<template>
+			Xin chào! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>CHAO</pattern>
+		<template>
+			Xin chào! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>CHÀO</pattern>
+		<template>
+			Xin chào! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>ĂN GÌ Ở CẦN THƠ</pattern>
+		<template>
+			Lẩu mắm Dạ Lý: đường 3/2
+		</template>
+	</category>
 	<category><pattern>*</pattern><template>Xin lỗi! Mình không hiểu ý bạn</template></category>
 </aiml>
