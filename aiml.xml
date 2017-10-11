@@ -3,69 +3,103 @@
 	<category>
 		<pattern>XIN CHAO</pattern>
 		<template>
-			Xin chào! Mình là 2TQ Chatbot
+			<random>
+				<li>Xin chào! Mình là 2TQ Chatbot</li>
+				<li>Hi bạn!</li>
+				<li>Chào mừng bạn trở lại</li>
+			</random>	
 		</template>
 	</category>
 	<category>
 		<pattern>XIN CHÀO</pattern>
 		<template>
-			Xin chào! Mình là 2TQ Chatbot.
+			<random>
+				<li>Xin chào! Mình là 2TQ Chatbot</li>
+				<li>Hi bạn!</li>
+				<li>Chào mừng bạn trở lại</li>
+			</random>	
 		</template>
 	</category>
 	<category>
 		<pattern>CHAO</pattern>
 		<template>
-			2TQ Chatbot chào bạn.
+			<random>
+				<li>Xin chào! Mình là 2TQ Chatbot</li>
+				<li>Hi bạn!</li>
+				<li>Chào mừng bạn trở lại</li>
+			</random>	
 		</template>
 	</category>
 	<category>
 		<pattern>CHÀO</pattern>
 		<template>
-			2TQ Chatbot chào bạn.
+			<random>
+				<li>Xin chào! Mình là 2TQ Chatbot</li>
+				<li>Hi bạn!</li>
+				<li>Chào mừng bạn trở lại</li>
+			</random>	
 		</template>
 	</category>
 	<category>
 		<pattern>HI</pattern>
 		<template>
-			Chào mừng bạn trở lại
+			<random>
+				<li>Xin chào! Mình là 2TQ Chatbot</li>
+				<li>Hi bạn!</li>
+				<li>Chào mừng bạn trở lại</li>
+			</random>	
 		</template>
 	</category>
 	<category>
 		<pattern>HII</pattern>
 		<template>
-			Chào mừng bạn trở lại.
+			<random>
+				<li>Xin chào! Mình là 2TQ Chatbot</li>
+				<li>Hi bạn!</li>
+				<li>Chào mừng bạn trở lại</li>
+			</random>	
 		</template>
 	</category>
 	<category>
 		<pattern>HELLO</pattern>
 		<template>
-			Xin chào! Mình là 2TQ Chatbot.
+			<random>
+				<li>Xin chào! Mình là 2TQ Chatbot</li>
+				<li>Hi bạn!</li>
+				<li>Chào mừng bạn trở lại</li>
+			</random>	
 		</template>
 	</category>
 	<category>
 		<pattern>HALO</pattern>
 		<template>
-			Xin chào! Mình là 2TQ Chatbot.
+			<random>
+				<li>Xin chào! Mình là 2TQ Chatbot</li>
+				<li>Hi bạn!</li>
+				<li>Chào mừng bạn trở lại</li>
+			</random>	
 		</template>
 	</category>
 	<category>
 		<pattern>HELO</pattern>
 		<template>
-			Xin chào! Mình là 2TQ Chatbot.
+			<random>
+				<li>Xin chào! Mình là 2TQ Chatbot</li>
+				<li>Hi bạn!</li>
+				<li>Chào mừng bạn trở lại</li>
+			</random>	
 		</template>
 	</category>
 	<category>
 		<pattern>ĂN GÌ Ở CẦN THƠ</pattern>
 		<template>
 			Lẩu mắm Dạ Lý: đường 3/2
-			Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 		</template>
 	</category>
 	<category>
 		<pattern>AN GI O CAN THO</pattern>
 		<template>
-			1. Lẩu mắm Dạ Lý: đường 3/2
-			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 		</template>
 	</category>
 	<category><pattern>*</pattern><template>Xin lỗi! Mình không hiểu ý bạn</template></category>
