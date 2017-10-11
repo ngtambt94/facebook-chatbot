@@ -4,8 +4,6 @@
 		<pattern>XIN CHAO</pattern>
 		<template>
 			<li>Xin chào! Mình là 2TQ Chatbot</li>
-			<li>2TQ Chatbot xin chào</li>
-			<li>Chào mừng bạn trở lại</li>
 		</template>
 	</category>
 	<category>
@@ -17,25 +15,25 @@
 	<category>
 		<pattern>CHAO</pattern>
 		<template>
-			Xin chào! Mình là 2TQ Chatbot.
+			2TQ Chatbot chào bạn.
 		</template>
 	</category>
 	<category>
 		<pattern>CHÀO</pattern>
 		<template>
-			Xin chào! Mình là 2TQ Chatbot.
+			2TQ Chatbot chào bạn.
 		</template>
 	</category>
 	<category>
 		<pattern>HI</pattern>
 		<template>
-			Xin chào! Mình là 2TQ Chatbot.
+			Chào mừng bạn trở lại
 		</template>
 	</category>
 	<category>
 		<pattern>HII</pattern>
 		<template>
-			Xin chào! Mình là 2TQ Chatbot.
+			Chào mừng bạn trở lại.
 		</template>
 	</category>
 	<category>
@@ -59,13 +57,15 @@
 	<category>
 		<pattern>ĂN GÌ Ở CẦN THƠ</pattern>
 		<template>
-			Lẩu mắm Dạ Lý: đường 3/2
+			- Lẩu mắm Dạ Lý: đường 3/2
+			- Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 		</template>
 	</category>
 	<category>
 		<pattern>AN GI O CAN THO</pattern>
 		<template>
-			Lẩu mắm Dạ Lý: đường 3/2
+			- Lẩu mắm Dạ Lý: đường 3/2
+			- Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 		</template>
 	</category>
 	<category><pattern>*</pattern><template>Xin lỗi! Mình không hiểu ý bạn</template></category>
