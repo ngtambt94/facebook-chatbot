@@ -171,8 +171,41 @@
 	<category>
 		<pattern>MÀY</pattern>
 		<template>
+			Sao kêu mình bằng mày? :(
+		</template>
+	</category>
+	<category>
+		<pattern>MAY</pattern>
+		<template>
 			Sao kêu mình bằng mày?
 		</template>
 	</category>
-	<category><pattern>*</pattern><template>Xin lỗi! Mình không hiểu ý bạn</template></category>
+	<category>
+		<pattern>MÀY TÊN GÌ</pattern>
+		<template>
+			Sao kêu mình bằng mày?
+		</template>
+	</category>
+	<category>
+		<pattern>MAY TEN GI</pattern>
+		<template>
+			Sao kêu mình bằng mày?
+		</template>
+	</category>
+	<category>
+		<pattern>_ MÀY</pattern>
+		<template>
+			Sao kêu mình bằng mày?
+		</template>
+	</category>
+	<category>
+		<pattern>_ MAY</pattern>
+		<template>
+			Sao kêu mình bằng mày?
+		</template>
+	</category>
+	<category>
+		<pattern>*</pattern>
+		<template>Xin lỗi! Mình không hiểu ý bạn</template>
+	</category>
 </aiml>
