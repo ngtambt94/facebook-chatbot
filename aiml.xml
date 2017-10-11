@@ -169,7 +169,7 @@
 		</template>
 	</category>
 	<category>
-		<pattern>MÀY *</pattern>
+		<pattern>MÀY _</pattern>
 		<template>
 			Sao kêu mình bằng mày?
 		</template>
