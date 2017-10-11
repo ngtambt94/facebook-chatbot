@@ -21,13 +21,13 @@
 	<category>
 		<pattern>CHÀO</pattern>
 		<template>
-			2TQ Chatbot chào bạn.
+			Ơn giời bạn đã trở lại rồi.
 		</template>
 	</category>
 	<category>
 		<pattern>HI</pattern>
 		<template>
-			Chào mừng bạn trở lại
+			Ơn giời bạn đã trở lại rồi.
 		</template>
 	</category>
 	<category>
