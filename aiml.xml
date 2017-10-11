@@ -3,10 +3,11 @@
 	<category>
 		<pattern>XIN CHAO</pattern>
 		<template>
+			<think><set name="hello">Xin chào</set></think>
 			<random>
-				<li>Xin chào! Mình là 2TQ Chatbot.</li>
+				<li>Xin chào! Mình là 2TQ Chatbot</li>
 				<li>2TQ Chatbot xin chào</li>
-				<li>Chào mwung bạn trở lại</li>
+				<li>Chào mừng bạn trở lại</li>
 			</random>			
 		</template>
 	</category>
