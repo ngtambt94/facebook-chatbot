@@ -129,13 +129,13 @@
 	<category>
 		<pattern>CAN YOU HELP ME</pattern>
 		<template>
-			Hi bạn! Bạn cần giúp gì?
+			Tất nhiên rồi! Bạn cần giúp gì?
 		</template>
 	</category>
 	<category>
 		<pattern> I NEED YOUR HELP</pattern>
 		<template>
-			Hi bạn! Bạn cần giúp gì?
+			Chắc chắn rồi! Bạn cần giúp gì?
 		</template>
 	</category>
 	<category>
@@ -148,6 +148,30 @@
 		<pattern>AN GI O CAN THO</pattern>
 		<template>
 			Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+		</template>
+	</category>
+	<category>
+		<pattern>WHO ARE YOU</pattern>
+		<template>
+			Mình là 2TQ Chatbot! Chatbot được tạo bởi Tam Nguyen.
+		</template>
+	</category>
+	<category>
+		<pattern>BẠN LÀ AI</pattern>
+		<template>
+			Mình là 2TQ Chatbot! Chatbot được tạo bởi Tam Nguyen.
+		</template>
+	</category>
+	<category>
+		<pattern>BAN LA AI</pattern>
+		<template>
+			Mình là 2TQ Chatbot! Chatbot được tạo bởi Tam Nguyen.
+		</template>
+	</category>
+	<category>
+		<pattern>MÀY *</pattern>
+		<template>
+			Sao kêu mình bằng mày?
 		</template>
 	</category>
 	<category><pattern>*</pattern><template>Xin lỗi! Mình không hiểu ý bạn</template></category>
