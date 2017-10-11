@@ -3,12 +3,7 @@
 	<category>
 		<pattern>XIN CHAO</pattern>
 		<template>
-			<think><set name="a">Xin chao</set></think>
-			<random>
-				<li>Xin chào! Mình là 2TQ Chatbot</li>
-				<li>Hi bạn!</li>
-				<li>Chào mừng bạn trở lại</li>
-			</random>	
+			Xin chào! Mình có thể giúp gì cho bạn?
 		</template>
 	</category>
 	<category>
@@ -32,13 +27,13 @@
 	<category>
 		<pattern>HI</pattern>
 		<template>
-			Mừng bạn trở lại
+			Hi! Mừng bạn trở lại
 		</template>
 	</category>
 	<category>
 		<pattern>HII</pattern>
 		<template>
-			Chào mừng bạn trở lại.
+			Hii! Chào mừng bạn trở lại.
 		</template>
 	</category>
 	<category>
@@ -50,7 +45,7 @@
 	<category>
 		<pattern>HALO</pattern>
 		<template>
-			Xin chào! Mình là 2TQ Chatbot.
+			Halo! Mình là 2TQ Chatbot.
 		</template>
 	</category>
 	<category>
