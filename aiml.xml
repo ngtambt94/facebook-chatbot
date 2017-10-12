@@ -141,7 +141,8 @@
 	<category>
 		<pattern>ĂN GÌ Ở CẦN THƠ</pattern>
 		<template>
-			Lẩu mắm Dạ Lý: đường 3/2
+			1. Lẩu mắm Dạ Lý: đường 3/2
+			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 		</template>
 	</category>
 	<category>
@@ -201,7 +202,11 @@
 	<category>
 		<pattern>MAY</pattern>
 		<template>
-			Sao kêu mình bằng mày?
+			<think><set name="may">Mày</set></think>
+			<random>
+				<li>Sao kêu mình bằng mày?</li>
+				<li>Sao sao nè?</li>
+			</random>			
 		</template>
 	</category>
 	<category>
