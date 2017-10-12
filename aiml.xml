@@ -202,7 +202,7 @@
 	<category>
 		<pattern>MAY</pattern>
 		<template>
-			<think><set name="may">Mày</set></think>
+			<think><set name="m">May</set></think>
 			<random>
 				<li>Sao kêu mình bằng mày?</li>
 				<li>Sao sao nè?</li>
