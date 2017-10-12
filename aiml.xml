@@ -55,6 +55,18 @@
 		</template>
 	</category>
 	<category>
+		<pattern>HI GUY</pattern>
+		<template>
+			Hi! Mừng bạn trở lại
+		</template>
+	</category>
+	<category>
+		<pattern>HI GUYS</pattern>
+		<template>
+			Hi! Mừng bạn trở lại
+		</template>
+	</category>
+	<category>
 		<pattern>HI AD</pattern>
 		<template>
 			Hi! Mừng bạn trở lại
@@ -62,6 +74,18 @@
 	</category>
 	<category>
 		<pattern>HII</pattern>
+		<template>
+			Hii! Chào mừng bạn trở lại.
+		</template>
+	</category>
+	<category>
+		<pattern>HII GUY</pattern>
+		<template>
+			Hii! Chào mừng bạn trở lại.
+		</template>
+	</category>
+	<category>
+		<pattern>HII GUYS</pattern>
 		<template>
 			Hii! Chào mừng bạn trở lại.
 		</template>
@@ -79,6 +103,18 @@
 		</template>
 	</category>
 	<category>
+		<pattern>HELLO GUY</pattern>
+		<template>
+			Xin chào! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>HELLO GUYS</pattern>
+		<template>
+			Xin chào! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
 		<pattern>HELLO AD</pattern>
 		<template>
 			Xin chào! Mình là 2TQ Chatbot.
@@ -91,6 +127,18 @@
 		</template>
 	</category>
 	<category>
+		<pattern>HALO GUY</pattern>
+		<template>
+			Halo! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>HALO GUYS</pattern>
+		<template>
+			Halo! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
 		<pattern>HALO AD</pattern>
 		<template>
 			Halo! Mình là 2TQ Chatbot.
@@ -98,6 +146,18 @@
 	</category>
 	<category>
 		<pattern>HELO</pattern>
+		<template>
+			Hello bạn! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>HELO GUY</pattern>
+		<template>
+			Hello bạn! Mình là 2TQ Chatbot.
+		</template>
+	</category>
+	<category>
+		<pattern>HELO GUYS</pattern>
 		<template>
 			Hello bạn! Mình là 2TQ Chatbot.
 		</template>
@@ -136,19 +196,6 @@
 		<pattern> I NEED YOUR HELP</pattern>
 		<template>
 			Chắc chắn rồi! Bạn cần giúp gì?
-		</template>
-	</category>
-	<category>
-		<pattern>ĂN GÌ Ở CẦN THƠ</pattern>
-		<template>
-			1. Lẩu mắm Dạ Lý: đường 3/2.
-			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
-		</template>
-	</category>
-	<category>
-		<pattern>AN GI O CAN THO</pattern>
-		<template>
-			Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 		</template>
 	</category>
 	<category>
@@ -202,23 +249,19 @@
 	<category>
 		<pattern>MAY</pattern>
 		<template>
-			<think><set name="m">May</set></think>
-			<random>
-				<li>Sao kêu mình bằng mày?</li>
-				<li>Sao sao nè?</li>
-			</random>			
+			Sao kêu mình bằng mày?!		
 		</template>
 	</category>
 	<category>
 		<pattern>MÀY TÊN GÌ</pattern>
 		<template>
-			Sao kêu mình bằng mày?
+			Sao kêu mình bằng mày?!
 		</template>
 	</category>
 	<category>
 		<pattern>MAY TEN GI</pattern>
 		<template>
-			Sao kêu mình bằng mày?
+			Sao kêu mình bằng mày?!
 		</template>
 	</category>
 	<category>
@@ -231,6 +274,26 @@
 		<pattern>WHAT THE FUCK</pattern>
 		<template>
 			Mình là người văn minh thì đừng nên nói bậy nè!
+		</template>
+	</category>
+	<category>
+		<pattern>ĂN GÌ Ở CẦN THƠ</pattern>
+		<template>
+			1. Lẩu mắm Dạ Lý: đường 3/2.
+			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
+			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
+			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+		</template>
+	</category>
+	<category>
+		<pattern>AN GI O CAN THO</pattern>
+		<template>
+			1. Lẩu mắm Dạ Lý: đường 3/2.
+			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
+			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
+			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 		</template>
 	</category>
 	<category>
