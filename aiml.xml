@@ -2,13 +2,7 @@
 <aiml>
 	<category>
 		<pattern>XIN CHAO</pattern>
-		<template>
-			<random>
-				<li>Xin chào! Mình có thể giúp gì cho bạn?</li>
-				<li>Mừng bạn trở lại</li>
-				<li>Hi! Mừng bạn trở lại</li>
-			</random>
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Mừng bạn trở lại</li><li>Hi! Mừng bạn trở lại</li></random></template>
 	</category>
 	<category>
 		<pattern>XIN CHAO AD</pattern>
