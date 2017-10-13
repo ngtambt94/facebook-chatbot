@@ -984,8 +984,4 @@
 			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 		</template>
 	</category>
-	<category>
-		<pattern>*</pattern>
-		<template>Xin lỗi! Mình không hiểu ý bạn</template>
-	</category>
 </aiml>

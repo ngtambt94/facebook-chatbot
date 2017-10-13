@@ -4,6 +4,7 @@ AIMLInterpreter = require('./node_modules/aimlinterpreter/AIMLInterpreter');
 var aimlInterpreter = new AIMLInterpreter({name:'Tam Nguyen', age:'23'});
 aimlInterpreter.loadAIMLFilesIntoArray(['./aiml.xml']);
 
+
 // messenger facebook
 'use strict'
 
@@ -195,9 +196,15 @@ app.post('/webhook', function (req, res) {
       
       // hàm callback trả về đáp án
       var callback = function(answer, wildCardArray, input){
-        sendTextMessage(sender, answer);
+        if (answer != 'undefined') {
+          sendTextMessage(sender, answer);
+        }
+        else{
+          sendTextMessage(sender, "Xin lỗi! Mình chưa hiểu ý của bạn.");
+        }
       };
 
+      // kiểm tra text với file aiml
       aimlInterpreter.findAnswerInLoadedAIMLFiles(text, callback)
     }
   }
