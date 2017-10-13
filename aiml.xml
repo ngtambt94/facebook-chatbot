@@ -113,6 +113,7 @@
 		<pattern>HELO AD</pattern>
 		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
+	<!-- trợ giúp -->
 	<category>
 		<pattern>HELP</pattern>
 		<template>
@@ -221,6 +222,7 @@
 			Mình là người văn minh thì đừng nên nói bậy nè!
 		</template>
 	</category>
+	<!-- món ăn ở cần thơ -->
 	<category>
 		<pattern>ĂN GÌ Ở CẦN THƠ</pattern>
 		<template>
