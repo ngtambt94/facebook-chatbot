@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
+	<category><pattern>A</pattern><template><random><li>A</li><li>B</li><li>C</li></random></template></category>
 	<category>
 		<pattern>XIN CHAO</pattern>
 		<template>
