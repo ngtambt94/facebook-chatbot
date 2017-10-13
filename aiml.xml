@@ -940,7 +940,50 @@
 			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 		</template>
 	</category>
-
+	<category>
+		<pattern>DU LỊCH CẦN THƠ ĂN GÌ</pattern>
+		<template>
+			TOP 5 MÓN ĂN Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
+			1. Lẩu mắm Dạ Lý: đường 3/2.
+			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
+			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
+			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+		</template>
+	</category>
+	<category>
+		<pattern>DU LICH CAN THO AN GI</pattern>
+		<template>
+			TOP 5 MÓN ĂN Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
+			1. Lẩu mắm Dạ Lý: đường 3/2.
+			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
+			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
+			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+		</template>
+	</category>
+	<category>
+		<pattern>DU LỊCH CẦN THƠ ĂN MÓN GÌ</pattern>
+		<template>
+			TOP 5 MÓN ĂN Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
+			1. Lẩu mắm Dạ Lý: đường 3/2.
+			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
+			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
+			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+		</template>
+	</category>
+	<category>
+		<pattern>DU LICH CAN THO AN MON GI</pattern>
+		<template>
+			TOP 5 MÓN ĂN Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
+			1. Lẩu mắm Dạ Lý: đường 3/2.
+			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
+			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
+			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+		</template>
+	</category>
 	<category>
 		<pattern>*</pattern>
 		<template>Xin lỗi! Mình không hiểu ý bạn</template>
