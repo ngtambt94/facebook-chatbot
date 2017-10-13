@@ -34,29 +34,6 @@ app.get('/webhook/', function (req, res) {
   }
 })
 
-// to post data
-app.post('/webhook', function (req, res) {
-  let messaging_events = req.body.entry[0].messaging
-  for (let i = 0; i < messaging_events.length; i++) {
-    let event = req.body.entry[0].messaging[i]
-    let sender = event.sender.id
-
-    // hàm callback trả về đáp án
-    var callback = function(answer, wildCardArray, input){
-      // console.log(answer);
-      sendTextMessage(sender, answer);
-    };
-
-    // kiểm tra sự kiện có tin nhắn đến
-    if (event.message && event.message.text) {
-      let text = event.message.text;
-      aimlInterpreter.findAnswerInLoadedAIMLFiles(text, callback)
-    }
-  }
-  res.sendStatus(200)
-})
-
-
 // recommended to inject access tokens as environmental variables, e.g.
 // const token = process.env.FB_PAGE_ACCESS_TOKEN
 const token = "EAAVV3f7r14EBAGPlMUbXLYPHyd3sE4kE7eWlq1BxyBQkft0ZBzGSdnZCJoyz2JLN8JEv4SWzQrE1LkMTzWCcwtRytQIJYu5ZCGwKYphqU8tubzSfisMptz1bXpcFvZCAfCYhm4ZBfTXGs9iQIIkmYySCvecJ07VXs6MMbCkoOP3CeydHtZBfLp"
@@ -203,6 +180,30 @@ function sendGenericMessage(sender) {
     }
   })
 }
+
+
+// to post data
+app.post('/webhook', function (req, res) {
+  let messaging_events = req.body.entry[0].messaging
+  for (let i = 0; i < messaging_events.length; i++) {
+    let event = req.body.entry[0].messaging[i]
+    let sender = event.sender.id
+
+    // kiểm tra sự kiện có tin nhắn đến
+    if (event.message && event.message.text) {
+      let text = event.message.text;
+      
+      // hàm callback trả về đáp án
+      var callback = function(answer, wildCardArray, input){
+        sendTextMessage(sender, answer);
+      };
+
+      aimlInterpreter.findAnswerInLoadedAIMLFiles(text, callback)
+    }
+  }
+  res.sendStatus(200)
+})
+
 
 // spin spin sugar
 app.listen(app.get('port'), function() {
