@@ -2,169 +2,115 @@
 <aiml>
 	<category>
 		<pattern>XIN CHAO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Mừng bạn trở lại</li><li>Hi! Mừng bạn trở lại</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>XIN CHAO AD</pattern>
-		<template>
-			Xin chào! Mình có thể giúp gì cho bạn?
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>XIN CHÀO</pattern>
-		<template>
-			Xin chào! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>XIN CHÀO AD</pattern>
-		<template>
-			Xin chào! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>CHAO</pattern>
-		<template>
-			Mừng bạn trở lại
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>CHAO AD</pattern>
-		<template>
-			Mừng bạn trở lại
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>CHÀO</pattern>
-		<template>
-			Mừng bạn trở lại
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>CHÀO AD</pattern>
-		<template>
-			Mừng bạn trở lại
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HI</pattern>
-		<template>
-			Hi! Mừng bạn trở lại
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HI GUY</pattern>
-		<template>
-			Hi! Mừng bạn trở lại
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HI GUYS</pattern>
-		<template>
-			Hi! Mừng bạn trở lại
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HI AD</pattern>
-		<template>
-			Hi! Mừng bạn trở lại
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HII</pattern>
-		<template>
-			Hii! Chào mừng bạn trở lại.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HII GUY</pattern>
-		<template>
-			Hii! Chào mừng bạn trở lại.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HII GUYS</pattern>
-		<template>
-			Hii! Chào mừng bạn trở lại.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HII AD</pattern>
-		<template>
-			Hii! Chào mừng bạn trở lại.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELLO</pattern>
-		<template>
-			Xin chào! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELLO GUY</pattern>
-		<template>
-			Xin chào! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELLO GUYS</pattern>
-		<template>
-			Xin chào! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELLO AD</pattern>
-		<template>
-			Xin chào! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HALO</pattern>
-		<template>
-			Halo! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HALO GUY</pattern>
-		<template>
-			Halo! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HALO GUYS</pattern>
-		<template>
-			Halo! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HALO AD</pattern>
-		<template>
-			Halo! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELO</pattern>
-		<template>
-			Hello bạn! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELO GUY</pattern>
-		<template>
-			Hello bạn! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELO GUYS</pattern>
-		<template>
-			Hello bạn! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELO AD</pattern>
-		<template>
-			Hello bạn! Mình là 2TQ Chatbot.
-		</template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELP</pattern>
