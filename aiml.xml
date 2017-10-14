@@ -239,7 +239,7 @@
 	</category>
 	<!-- món ăn ở cần thơ -->
 	<category>
-		<pattern>MON AN CAN THO *</pattern>
+		<pattern>* AN * CAN THO *</pattern>
 		<template>
 			TOP 5 MÓN ĂN Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
 			1. Lẩu mắm Dạ Lý: đường 3/2.
