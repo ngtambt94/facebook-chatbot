@@ -2,11 +2,7 @@
 <aiml>
 	<!-- chào hỏi -->
 	<category>
-		<pattern>XIN CHAO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>XIN CHAO AD</pattern>
+		<pattern>XIN CHAO *</pattern>
 		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
@@ -18,11 +14,7 @@
 		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
-		<pattern>CHAO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>CHAO AD</pattern>
+		<pattern>CHAO *</pattern>
 		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
@@ -34,87 +26,27 @@
 		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
-		<pattern>HI</pattern>
+		<pattern>HI *</pattern>
 		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
-		<pattern>HI GUY</pattern>
+		<pattern>HII *</pattern>
 		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
-		<pattern>HI GUYS</pattern>
+		<pattern>HELLO *</pattern>
 		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
-		<pattern>HI AD</pattern>
+		<pattern>HALO *</pattern>
 		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
-		<pattern>HII</pattern>
+		<pattern>HELO *</pattern>
 		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
-		<pattern>HII GUY</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HII GUYS</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HII AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HELLO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HELLO GUY</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HELLO GUYS</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HELLO AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HALO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HALO GUY</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HALO GUYS</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HALO AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HELO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HELO GUY</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HELO GUYS</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>HELO AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>BAN KHOE KHONG</pattern>
+		<pattern>BAN KHOE KHONG *</pattern>
 		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
 	</category>
 	<category>
@@ -122,15 +54,11 @@
 		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
 	</category>
 	<category>
-		<pattern>HOW ARE YOU</pattern>
+		<pattern>HOW ARE YOU *</pattern>
 		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
 	</category>
 	<category>
-		<pattern>HOW ARE YOU TODAY</pattern>
-		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
-	</category>
-	<category>
-		<pattern>HOM NAY BAN THE NAO</pattern>
+		<pattern>HOM NAY BAN THE NAO *</pattern>
 		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
 	</category>
 	<category>
@@ -145,13 +73,13 @@
 		</template>
 	</category>
 	<category>
-		<pattern>TAM LA AI</pattern>
+		<pattern>TAM LA AI *</pattern>
 		<template>
 			Tam Nguyen là sinh viên Khoa học máy tính, khóa 39, Trường Đại học Cần Thơ
 		</template>
 	</category>
 	<category>
-		<pattern>TAM CO BAN GAI CHUA</pattern>
+		<pattern>TAM CO BAN GAI CHUA *</pattern>
 		<template>
 			Tất nhiên là có rồi! Đẹp trai vậy mà
 		</template>
@@ -194,19 +122,19 @@
 		</template>
 	</category>
 	<category>
-		<pattern>CAN YOU HELP ME</pattern>
+		<pattern>CAN YOU HELP ME *</pattern>
 		<template>
 			Tất nhiên rồi! Bạn cần giúp gì?
 		</template>
 	</category>
 	<category>
-		<pattern>I NEED YOUR HELP</pattern>
+		<pattern>I NEED YOUR HELP *</pattern>
 		<template>
 			Chắc chắn rồi! Bạn cần giúp gì?
 		</template>
 	</category>
 	<category>
-		<pattern>WHO ARE YOU</pattern>
+		<pattern>WHO ARE YOU *</pattern>
 		<template>
 			Mình là TravelBot! Chatbot được tạo bởi Tâm đẹp trai.
 		</template>
@@ -218,7 +146,7 @@
 		</template>
 	</category>
 	<category>
-		<pattern>BAN LA AI</pattern>
+		<pattern>BAN LA AI *</pattern>
 		<template>
 			Mình là TravelBot! Chatbot được tạo bởi Tâm đẹp trai.
 		</template>
@@ -254,7 +182,7 @@
 		</template>
 	</category>
 	<category>
-		<pattern>MAY</pattern>
+		<pattern>MAY *</pattern>
 		<template>
 			Sao kêu mình bằng mày?!		
 		</template>
@@ -266,19 +194,19 @@
 		</template>
 	</category>
 	<category>
-		<pattern>MAY TEN GI</pattern>
+		<pattern>MAY TEN GI *</pattern>
 		<template>
 			Sao kêu mình bằng mày?!
 		</template>
 	</category>
 	<category>
-		<pattern>WTF</pattern>
+		<pattern>WTF *</pattern>
 		<template>
 			Mình là người văn minh thì đừng nên nói bậy nè!
 		</template>
 	</category>
 	<category>
-		<pattern>WHAT THE FUCK</pattern>
+		<pattern>WHAT THE FUCK *</pattern>
 		<template>
 			Mình là người văn minh thì đừng nên nói bậy nè!
 		</template>
