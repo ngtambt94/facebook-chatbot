@@ -139,37 +139,37 @@
 	</category>
 	<!-- thông tin thêm -->
 	<category>
-		<pattern>TAM NGUYEN LÀ AI</pattern>
+		<pattern>TÂM LÀ AI</pattern>
 		<template>
 			Tam Nguyen là sinh viên Khoa học máy tính, khóa 39, Trường Đại học Cần Thơ
 		</template>
 	</category>
 	<category>
-		<pattern>TAM NGUYEN LA AI</pattern>
+		<pattern>TAM LA AI</pattern>
 		<template>
 			Tam Nguyen là sinh viên Khoa học máy tính, khóa 39, Trường Đại học Cần Thơ
 		</template>
 	</category>
 	<category>
-		<pattern>TAM NGUYEN CO BAN GAI CHUA</pattern>
+		<pattern>TAM CO BAN GAI CHUA</pattern>
 		<template>
 			Đẹp trai như vậy tất nhiên là có rồi!
 		</template>
 	</category>
 	<category>
-		<pattern>TAM NGUYEN CÓ BẠN GÁI CHƯA</pattern>
+		<pattern>TÂM CÓ BẠN GÁI CHƯA</pattern>
 		<template>
 			Đẹp trai như vậy tất nhiên là có rồi!
 		</template>
 	</category>
 	<category>
-		<pattern>BẠN GÁI TAM NGUYEN LÀ AI</pattern>
+		<pattern>BẠN GÁI TÂM LÀ AI</pattern>
 		<template>
 			Quyen Tran cute
 		</template>
 	</category>
 	<category>
-		<pattern>BAN GAI TAM NGUYEN LA AI</pattern>
+		<pattern>BAN GAI TAM LA AI</pattern>
 		<template>
 			Quyen Tran cute
 		</template>
