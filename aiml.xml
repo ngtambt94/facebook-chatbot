@@ -261,6 +261,14 @@
 		</template>
 	</category>
 	<category>
+		<pattern>* MON * CAN THO *</pattern>
+		<template><srai>MON NGON CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * MON *</pattern>
+		<template><srai>MON NGON CAN THO</srai></template>
+	</category>
+	<category>
 		<pattern>* CAN THO * AN *</pattern>
 		<template><srai>MON NGON CAN THO</srai></template>
 	</category>
