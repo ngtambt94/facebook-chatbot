@@ -19,7 +19,7 @@
 	</category>
 	<category>
 		<pattern>CHAO *</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><srai>XIN CHAO *</srai></template>
 	</category>
 	<category>
 		<pattern>CHÀO</pattern>
@@ -31,23 +31,23 @@
 	</category>
 	<category>
 		<pattern>HI *</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><srai>XIN CHAO *</srai></template>
 	</category>
 	<category>
 		<pattern>HII *</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><srai>XIN CHAO *</srai></template>
 	</category>
 	<category>
 		<pattern>HELLO *</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><srai>XIN CHAO *</srai></template>
 	</category>
 	<category>
 		<pattern>HALO *</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><srai>XIN CHAO *</srai></template>
 	</category>
 	<category>
 		<pattern>HELO *</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><srai>XIN CHAO *</srai></template>
 	</category>
 	<category>
 		<pattern>BAN KHOE KHONG *</pattern>
@@ -83,6 +83,10 @@
 		</template>
 	</category>
 	<category>
+		<pattern>* LA TAM</pattern>
+		<template><srai>TAM LA AI *</srai></template>
+	</category>
+	<category>
 		<pattern>TAM CO BAN GAI CHUA *</pattern>
 		<template>
 			Tất nhiên là có rồi! Đẹp trai vậy mà
@@ -107,6 +111,10 @@
 		</template>
 	</category>
 	<category>
+		<pattern>* BAN GAI TAM</pattern>
+		<template><srai>BAN GAI TAM *</srai></template>
+	</category>
+	<category>
 		<pattern>QUYEN TRAN LÀ AI</pattern>
 		<template>
 			Quyen Tran là bạn gái Tam Nguyen. Mình không thể thông tin thêm.
@@ -118,6 +126,10 @@
 			Quyen Tran là bạn gái Tam Nguyen. Mình không thể thông tin thêm.
 		</template>
 	</category>
+	<category>
+		<pattern>* QUYEN TRAN</pattern>
+		<template><srai>QUYEN TRAN *</srai></template>
+	</category>
 	<!-- trợ giúp -->
 	<category>
 		<pattern>HELP *</pattern>
@@ -126,15 +138,15 @@
 		</template>
 	</category>
 	<category>
-		<pattern>CAN YOU HELP ME *</pattern>
+		<pattern>* HELP</pattern>
 		<template>
-			Tất nhiên rồi! Bạn cần giúp gì?
+			Chắc chắn rồi! Bạn cần giúp gì?
 		</template>
 	</category>
 	<category>
-		<pattern>I NEED YOUR HELP *</pattern>
+		<pattern>CAN YOU HELP ME *</pattern>
 		<template>
-			Chắc chắn rồi! Bạn cần giúp gì?
+			Tất nhiên rồi! Bạn cần giúp gì?
 		</template>
 	</category>
 	<category>
