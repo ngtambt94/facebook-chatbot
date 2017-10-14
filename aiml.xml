@@ -137,6 +137,55 @@
 		<pattern>HÔM NAY BẠN THẾ NÀO</pattern>
 		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
 	</category>
+	<!-- thông tin thêm -->
+	<category>
+		<pattern>TAM NGUYEN LÀ AI</pattern>
+		<template>
+			Tam Nguyen là sinh viên Khoa học máy tính, khóa 39, Trường Đại học Cần Thơ
+		</template>
+	</category>
+	<category>
+		<pattern>TAM NGUYEN LA AI</pattern>
+		<template>
+			Tam Nguyen là sinh viên Khoa học máy tính, khóa 39, Trường Đại học Cần Thơ
+		</template>
+	</category>
+	<category>
+		<pattern>TAM NGUYEN CO BAN GAI CHUA</pattern>
+		<template>
+			Đẹp trai như vậy tất nhiên là có rồi!
+		</template>
+	</category>
+	<category>
+		<pattern>TAM NGUYEN CÓ BẠN GÁI CHƯA</pattern>
+		<template>
+			Đẹp trai như vậy tất nhiên là có rồi!
+		</template>
+	</category>
+	<category>
+		<pattern>BẠN GÁI TAM NGUYEN LÀ AI</pattern>
+		<template>
+			Quyen Tran cute
+		</template>
+	</category>
+	<category>
+		<pattern>BAN GAI TAM NGUYEN LA AI</pattern>
+		<template>
+			Quyen Tran cute
+		</template>
+	</category>
+	<category>
+		<pattern>QUYEN TRAN LÀ AI</pattern>
+		<template>
+			Quyen Tran là bạn gái Tam Nguyen. Mình không thể thông tin thêm.
+		</template>
+	</category>
+	<category>
+		<pattern>QUYEN TRAN LA AI</pattern>
+		<template>
+			Quyen Tran là bạn gái Tam Nguyen. Mình không thể thông tin thêm.
+		</template>
+	</category>
 	<!-- trợ giúp -->
 	<category>
 		<pattern>HELP</pattern>
