@@ -169,7 +169,7 @@
 		</template>
 	</category>
 	<category>
-		<pattern>BAN GAI TAM LA AI</pattern>
+		<pattern>BAN GAI TAM *</pattern>
 		<template>
 			Quyen Tran cute
 		</template>
@@ -181,26 +181,14 @@
 		</template>
 	</category>
 	<category>
-		<pattern>QUYEN TRAN LA AI</pattern>
+		<pattern>QUYEN TRAN *</pattern>
 		<template>
 			Quyen Tran là bạn gái Tam Nguyen. Mình không thể thông tin thêm.
 		</template>
 	</category>
 	<!-- trợ giúp -->
 	<category>
-		<pattern>HELP</pattern>
-		<template>
-			Hi bạn! Bạn cần giúp gì?
-		</template>
-	</category>
-	<category>
-		<pattern>HELP ME</pattern>
-		<template>
-			Hi bạn! Bạn cần giúp gì?
-		</template>
-	</category>
-	<category>
-		<pattern>HELP ME PLEASE</pattern>
+		<pattern>HELP *</pattern>
 		<template>
 			Hi bạn! Bạn cần giúp gì?
 		</template>
@@ -212,7 +200,7 @@
 		</template>
 	</category>
 	<category>
-		<pattern> I NEED YOUR HELP</pattern>
+		<pattern>I NEED YOUR HELP</pattern>
 		<template>
 			Chắc chắn rồi! Bạn cần giúp gì?
 		</template>
