@@ -113,6 +113,30 @@
 		<pattern>HELO AD</pattern>
 		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là 2TQ Chatbot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
+	<category>
+		<pattern>BAN KHOE KHONG</pattern>
+		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
+	</category>
+	<category>
+		<pattern>BẠN KHỎE KHÔNG</pattern>
+		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
+	</category>
+	<category>
+		<pattern>HOW ARE YOU</pattern>
+		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
+	</category>
+	<category>
+		<pattern>HOW ARE YOU TODAY</pattern>
+		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
+	</category>
+	<category>
+		<pattern>HOM NAY BAN THE NAO</pattern>
+		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
+	</category>
+	<category>
+		<pattern>HÔM NAY BẠN THẾ NÀO</pattern>
+		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
+	</category>
 	<!-- trợ giúp -->
 	<category>
 		<pattern>HELP</pattern>
@@ -183,7 +207,7 @@
 	<category>
 		<pattern>AD À</pattern>
 		<template>
-			Minh đây! Bạn cần giúp gì?
+			Mình đây! Bạn cần giúp gì?
 		</template>
 	</category>
 	<category>
@@ -231,7 +255,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -242,7 +266,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -253,7 +277,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -264,7 +288,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -275,7 +299,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -286,7 +310,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -297,7 +321,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -308,7 +332,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -319,7 +343,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -330,7 +354,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -341,7 +365,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -352,7 +376,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -363,7 +387,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -374,7 +398,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -385,7 +409,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -396,7 +420,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -407,7 +431,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -418,7 +442,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -429,7 +453,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -440,7 +464,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -451,7 +475,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -462,7 +486,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -473,7 +497,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -484,7 +508,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -495,7 +519,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -506,7 +530,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -517,7 +541,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -528,7 +552,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -539,7 +563,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -550,7 +574,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -561,7 +585,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -572,7 +596,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -583,7 +607,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -594,7 +618,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -605,7 +629,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -616,7 +640,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -627,7 +651,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -638,7 +662,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -649,7 +673,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -660,7 +684,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -671,7 +695,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -682,7 +706,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -693,7 +717,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -704,7 +728,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -715,7 +739,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -726,7 +750,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -737,7 +761,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -748,7 +772,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -759,7 +783,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -770,7 +794,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -781,7 +805,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -792,7 +816,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -803,7 +827,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -814,7 +838,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -825,7 +849,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -836,7 +860,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -847,7 +871,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -858,7 +882,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -869,7 +893,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -880,7 +904,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -891,7 +915,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -902,7 +926,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -913,7 +937,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -924,7 +948,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -935,7 +959,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -946,7 +970,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -957,7 +981,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -968,7 +992,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -979,7 +1003,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -990,7 +1014,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1001,7 +1025,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1012,7 +1036,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1023,7 +1047,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1034,7 +1058,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1045,7 +1069,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1056,7 +1080,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1067,7 +1091,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1078,7 +1102,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1089,7 +1113,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1100,7 +1124,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1111,7 +1135,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1122,7 +1146,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1133,7 +1157,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1144,7 +1168,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1155,7 +1179,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1166,7 +1190,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1177,7 +1201,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1188,7 +1212,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1199,7 +1223,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1210,7 +1234,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1221,7 +1245,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 	<category>
@@ -1232,7 +1256,7 @@
 			2. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
 			3. Nem nướng Thanh Vân: 17, Đại lộ Hòa Bình,quận Ninh Kiều.
 			4. Bánh xèo 7 tới: Đường Cái Sơn Hàng Bàng, Q.Cái Răng, TP Cần Thơ.
-			5. Bánh cống Cô Út: 86/38, đường Lý Tự Trọng, phường An Cư, quận Ninh Kiều.
+			5. Vịt nấu chao: quán Kim Liên, Thành Giao hẻm 1, đường Lý Tự Trọng.
 		</template>
 	</category>
 </aiml>
