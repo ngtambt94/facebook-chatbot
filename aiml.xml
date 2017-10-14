@@ -6,6 +6,10 @@
 		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
+		<pattern>* XIN CHAO</pattern>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+	</category>
+	<category>
 		<pattern>XIN CHÀO</pattern>
 		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
@@ -207,6 +211,12 @@
 	</category>
 	<category>
 		<pattern>WHAT THE FUCK *</pattern>
+		<template>
+			Mình là người văn minh thì đừng nên nói bậy nè!
+		</template>
+	</category>
+	<category>
+		<pattern>FUCK *</pattern>
 		<template>
 			Mình là người văn minh thì đừng nên nói bậy nè!
 		</template>
