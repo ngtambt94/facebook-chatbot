@@ -127,7 +127,7 @@
 		</template>
 	</category>
 	<category>
-		<pattern>* QUYEN TRAN</pattern>
+		<pattern>* LA QUYEN TRAN</pattern>
 		<template><srai>QUYEN TRAN *</srai></template>
 	</category>
 	<!-- trợ giúp -->
