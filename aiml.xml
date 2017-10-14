@@ -3,115 +3,115 @@
 	<!-- chào hỏi -->
 	<category>
 		<pattern>XIN CHAO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>XIN CHAO AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>XIN CHÀO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>XIN CHÀO AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>CHAO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>CHAO AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>CHÀO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>CHÀO AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HI</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HI GUY</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HI GUYS</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HI AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HII</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HII GUY</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HII GUYS</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HII AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELLO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELLO GUY</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELLO GUYS</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELLO AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HALO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HALO GUY</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HALO GUYS</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HALO AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELO GUY</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELO GUYS</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HELO AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot.</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
+		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>BAN KHOE KHONG</pattern>
