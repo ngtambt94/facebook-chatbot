@@ -562,7 +562,19 @@
 		</template>
 	</category>
 	<category>
+		<pattern>TOI CAN THO THI AN *</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
 		<pattern>TỚI CẦN THƠ ĂN GÌ</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>TỚI CẦN THƠ THÌ ĂN GÌ</pattern>
 		<template>
 			<srai>MON AN CAN THO *</srai>
 		</template>
@@ -586,7 +598,7 @@
 		</template>
 	</category>
 	<category>
-		<pattern>TOI CAN THO CO GI AN</pattern>
+		<pattern>TOI CAN THO CO GI AN *</pattern>
 		<template>
 			<srai>MON AN CAN THO *</srai>
 		</template>
@@ -598,7 +610,7 @@
 		</template>
 	</category>
 	<category>
-		<pattern>TOI CAN THO KIEM GI AN</pattern>
+		<pattern>TOI CAN THO KIEM GI AN *</pattern>
 		<template>
 			<srai>MON AN CAN THO *</srai>
 		</template>
@@ -610,7 +622,7 @@
 		</template>
 	</category>
 	<category>
-		<pattern>TOI CAN THO TIM GI AN</pattern>
+		<pattern>TOI CAN THO TIM GI AN *</pattern>
 		<template>
 			<srai>MON AN CAN THO *</srai>
 		</template>
@@ -664,7 +676,7 @@
 		</template>
 	</category>
 	<category>
-		<pattern>DEN CAN THO CO GI AN</pattern>
+		<pattern>DEN CAN THO CO GI AN *</pattern>
 		<template>
 			<srai>MON AN CAN THO *</srai>
 		</template>
@@ -676,7 +688,7 @@
 		</template>
 	</category>
 	<category>
-		<pattern>DEN CAN THO KIEM GI AN</pattern>
+		<pattern>DEN CAN THO KIEM GI AN *</pattern>
 		<template>
 			<srai>MON AN CAN THO *</srai>
 		</template>
@@ -688,7 +700,7 @@
 		</template>
 	</category>
 	<category>
-		<pattern>DEN CAN THO TIM GI AN</pattern>
+		<pattern>DEN CAN THO TIM GI AN *</pattern>
 		<template>
 			<srai>MON AN CAN THO *</srai>
 		</template>
@@ -731,6 +743,42 @@
 	</category>
 	<category>
 		<pattern>DU LỊCH CẦN THƠ THÌ ĂN MÓN GÌ</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>DU LICH CAN THO AN *</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>DU LICH CAN THO THI AN *</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>DU LICH CAN THO TIM GI AN *</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>DU LỊCH CẦN THƠ TÌM GÌ ĂN</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>DU LICH CAN THO KIEM GI AN *</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>DU LỊCH CẦN THƠ KIẾM GÌ ĂN</pattern>
 		<template>
 			<srai>MON AN CAN THO *</srai>
 		</template>
