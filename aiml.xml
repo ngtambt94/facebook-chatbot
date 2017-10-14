@@ -87,7 +87,7 @@
 		<template><srai>TAM LA AI *</srai></template>
 	</category>
 	<category>
-		<pattern>TAM CO BAN GAI CHUA *</pattern>
+		<pattern>TAM CO BAN GAI *</pattern>
 		<template>
 			Tất nhiên là có rồi! Đẹp trai vậy mà
 		</template>
@@ -115,20 +115,10 @@
 		<template><srai>BAN GAI TAM *</srai></template>
 	</category>
 	<category>
-		<pattern>QUYEN TRAN LÀ AI</pattern>
+		<pattern>* QUYEN TRAN *</pattern>
 		<template>
 			Quyen Tran là bạn gái Tam Nguyen. Mình không thể thông tin thêm.
 		</template>
-	</category>
-	<category>
-		<pattern>QUYEN TRAN *</pattern>
-		<template>
-			Quyen Tran là bạn gái Tam Nguyen. Mình không thể thông tin thêm.
-		</template>
-	</category>
-	<category>
-		<pattern>* LA QUYEN TRAN</pattern>
-		<template><srai>QUYEN TRAN *</srai></template>
 	</category>
 	<!-- trợ giúp -->
 	<category>
@@ -166,6 +156,14 @@
 		<template>
 			Mình là TravelBot! Chatbot được tạo bởi Tâm đẹp trai.
 		</template>
+	</category>
+	<category>
+		<pattern>AI * TAO * BAN</pattern>
+		<template><srai>BẠN LÀ AI</srai></template>
+	</category>
+	<category>
+		<pattern>AI TẠO RA BẠN</pattern>
+		<template><srai>BẠN LÀ AI</srai></template>
 	</category>
 	<category>
 		<pattern>MÀY</pattern>
