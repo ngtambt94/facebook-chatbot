@@ -256,6 +256,42 @@
 		</template>
 	</category>
 	<category>
+		<pattern>MÓN ĂN NGON CẦN THƠ</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>MÓN ĂN NGON Ở CẦN THƠ</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>MÓN ĂN NGON CỦA CẦN THƠ</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* MON AN NGON CAN THO</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* MON AN NGON O CAN THO</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>* MON AN NGON CUA CAN THO</pattern>
+		<template>
+			<srai>MON AN CAN THO *</srai>
+		</template>
+	</category>
+	<category>
 		<pattern>ĐI CẦN THƠ ĂN GÌ</pattern>
 		<template>
 			<srai>MON AN CAN THO *</srai>
