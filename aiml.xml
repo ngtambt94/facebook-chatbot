@@ -223,15 +223,19 @@
 	</category>
 	<category>
 		<pattern>WHAT THE FUCK *</pattern>
-		<template>
-			Mình là người văn minh thì đừng nên nói bậy nè!
-		</template>
+		<template><srai>WTF *</srai></template>
 	</category>
 	<category>
 		<pattern>FUCK *</pattern>
-		<template>
-			Mình là người văn minh thì đừng nên nói bậy nè!
-		</template>
+		<template><srai>WTF *</srai></template>
+	</category>
+	<category>
+		<pattern>SHIT *</pattern>
+		<template><srai>WTF *</srai></template>
+	</category>
+	<category>
+		<pattern>* SHIT</pattern>
+		<template><srai>WTF *</srai></template>
 	</category>
 	<!-- món ăn ở cần thơ -->
 	<category>
