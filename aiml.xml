@@ -171,9 +171,12 @@
 		<pattern>* CAN THO * MON *</pattern>
 		<template><srai>MON NGON CAN THO</srai></template>
 	</category>
-	<!-- thông tin không tìm thấy -->
 	<category>
-		<pattern>*</pattern>
-		<template><srai>Xin lỗi! Mình không hiểu ý bạn!</srai></template>
+		<pattern>* NGON * CAN THO *</pattern>
+		<template><srai>MON NGON CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * NGON *</pattern>
+		<template><srai>MON NGON CAN THO</srai></template>
 	</category>
 </aiml>
