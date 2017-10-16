@@ -213,12 +213,7 @@ app.post('/webhook', function (req, res) {
       }
       // hàm callback trả về đáp án
       var callback = function(answer, wildCardArray, input){
-        if (answer !== undefined && answer !== '') {
           sendTextMessage(sender, answer);
-        }
-        else{
-          sendTextMessage(sender, "Xin lỗi! Mình chưa hiểu ý của bạn.");
-        }
       };
 
       // kiểm tra text với file aiml

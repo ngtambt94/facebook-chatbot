@@ -10,24 +10,8 @@
 		<template><srai>XIN CHAO *</srai></template>
 	</category>
 	<category>
-		<pattern>XIN CHÀO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>XIN CHÀO AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
 		<pattern>CHAO *</pattern>
 		<template><srai>XIN CHAO *</srai></template>
-	</category>
-	<category>
-		<pattern>CHÀO</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
-	</category>
-	<category>
-		<pattern>CHÀO AD</pattern>
-		<template><random><li>Xin chào! Mình có thể giúp gì cho bạn?</li><li>Xin chào! Mình là TravelBot</li><li>Hii! Chào mừng bạn trở lại.</li></random></template>
 	</category>
 	<category>
 		<pattern>HI *</pattern>
@@ -50,11 +34,7 @@
 		<template><srai>XIN CHAO *</srai></template>
 	</category>
 	<category>
-		<pattern>BAN KHOE KHONG *</pattern>
-		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
-	</category>
-	<category>
-		<pattern>BẠN KHỎE KHÔNG</pattern>
+		<pattern>* BAN * KHOE KHONG *</pattern>
 		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
 	</category>
 	<category>
@@ -65,47 +45,31 @@
 		<pattern>HOM NAY BAN THE NAO *</pattern>
 		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
 	</category>
-	<category>
-		<pattern>HÔM NAY BẠN THẾ NÀO</pattern>
-		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
-	</category>
 	<!-- thông tin thêm -->
 	<category>
-		<pattern>TÂM LÀ AI</pattern>
+		<pattern>* TAM LA *</pattern>
 		<template>
 			Tam Nguyen là sinh viên Khoa học máy tính, khóa 39, Trường Đại học Cần Thơ
 		</template>
 	</category>
 	<category>
-		<pattern>TAM LA AI *</pattern>
+		<pattern>* TAM NGUYEN LA *</pattern>
 		<template>
 			Tam Nguyen là sinh viên Khoa học máy tính, khóa 39, Trường Đại học Cần Thơ
 		</template>
 	</category>
 	<category>
-		<pattern>* LA TAM</pattern>
+		<pattern>* LA * TAM</pattern>
 		<template><srai>TAM LA AI *</srai></template>
 	</category>
 	<category>
-		<pattern>TAM CO BAN GAI *</pattern>
+		<pattern>TAM * BAN GAI *</pattern>
 		<template>
-			Tất nhiên là có rồi! Đẹp trai vậy mà
+			Tất nhiên là có rồi! Đẹp trai vậy mà?!
 		</template>
 	</category>
 	<category>
-		<pattern>TÂM CÓ BẠN GÁI CHƯA</pattern>
-		<template>
-			Tất nhiên là có rồi! Đẹp trai vậy mà
-		</template>
-	</category>
-	<category>
-		<pattern>BẠN GÁI TÂM LÀ AI</pattern>
-		<template>
-			Quyen Tran cute
-		</template>
-	</category>
-	<category>
-		<pattern>BAN GAI TAM *</pattern>
+		<pattern>* BAN GAI * TAM *</pattern>
 		<template>
 			Quyen Tran cute
 		</template>
@@ -122,117 +86,61 @@
 	</category>
 	<!-- trợ giúp -->
 	<category>
-		<pattern>HELP *</pattern>
+		<pattern>* HELP *</pattern>
 		<template>
 			Hi bạn! Bạn cần giúp gì?
 		</template>
 	</category>
 	<category>
-		<pattern>* HELP</pattern>
-		<template>
-			Chắc chắn rồi! Bạn cần giúp gì?
-		</template>
-	</category>
-	<category>
-		<pattern>CAN YOU HELP ME *</pattern>
+		<pattern>* CAN YOU HELP ME *</pattern>
 		<template>
 			Tất nhiên rồi! Bạn cần giúp gì?
 		</template>
 	</category>
 	<category>
-		<pattern>WHO ARE YOU *</pattern>
+		<pattern>* WHO ARE YOU *</pattern>
 		<template>
-			Mình là TravelBot! Chatbot được tạo bởi Tâm đẹp trai.
+			Mình là TravelBot! Chatbot được tạo bởi Tam Nguyen.
 		</template>
-	</category>
+	</category>	
 	<category>
-		<pattern>BẠN LÀ AI</pattern>
+		<pattern>* BAN LA AI *</pattern>
 		<template>
-			Mình là TravelBot! Chatbot được tạo bởi Tâm đẹp trai.
-		</template>
-	</category>
-	<category>
-		<pattern>BAN LA AI *</pattern>
-		<template>
-			Mình là TravelBot! Chatbot được tạo bởi Tâm đẹp trai.
+			Mình là TravelBot! Chatbot được tạo bởi Tam Nguyen.
 		</template>
 	</category>
 	<category>
 		<pattern>AI * TAO * BAN</pattern>
-		<template><srai>BẠN LÀ AI</srai></template>
+		<template>Tam Nguyen đã tạo ra mình</template>
 	</category>
 	<category>
-		<pattern>AI TẠO RA BẠN</pattern>
-		<template><srai>BẠN LÀ AI</srai></template>
-	</category>
-	<category>
-		<pattern>MÀY</pattern>
-		<template>
-			Sao kêu mình bằng mày?
-		</template>
-	</category>
-	<category>
-		<pattern>AD ƠI</pattern>
+		<pattern>AD *</pattern>
 		<template>
 			Mình đây! Bạn cần giúp gì?
 		</template>
 	</category>
 	<category>
-		<pattern>AD OI</pattern>
-		<template>
-			Mình đây! Bạn cần giúp gì?
-		</template>
-	</category>
-	<category>
-		<pattern>AD À</pattern>
-		<template>
-			Mình đây! Bạn cần giúp gì?
-		</template>
-	</category>
-	<category>
-		<pattern>AD A</pattern>
-		<template>
-			Mình đây! Bạn cần giúp gì?
-		</template>
-	</category>
-	<category>
-		<pattern>MAY *</pattern>
+		<pattern>* MAY *</pattern>
 		<template>
 			Sao kêu mình bằng mày?!		
 		</template>
 	</category>
 	<category>
-		<pattern>MÀY TÊN GÌ</pattern>
-		<template>
-			Sao kêu mình bằng mày?!
-		</template>
-	</category>
-	<category>
-		<pattern>MAY TEN GI *</pattern>
-		<template>
-			Sao kêu mình bằng mày?!
-		</template>
-	</category>
-	<category>
-		<pattern>WTF *</pattern>
+		<pattern>* WTF *</pattern>
 		<template>
 			Mình là người văn minh thì đừng nên nói bậy nè!
 		</template>
 	</category>
 	<category>
-		<pattern>WHAT THE FUCK *</pattern>
+		<pattern>* WHAT THE FUCK *</pattern>
 		<template><srai>WTF *</srai></template>
 	</category>
 	<category>
-		<pattern>FUCK *</pattern>
+		<pattern>* FUCK *</pattern>
 		<template><srai>WTF *</srai></template>
 	</category>
 	<category>
-		<pattern>SHIT *</pattern>
-		<template><srai>WTF *</srai></template>
-	</category>
-	<category>
-		<pattern>* SHIT</pattern>
+		<pattern>* SHIT *</pattern>
 		<template><srai>WTF *</srai></template>
 	</category>
 	<!-- món ăn ở cần thơ -->
@@ -263,114 +171,9 @@
 		<pattern>* CAN THO * MON *</pattern>
 		<template><srai>MON NGON CAN THO</srai></template>
 	</category>
-	<!-- MÓN ĂN/MÓN ĂN NGON -->
+	
 	<category>
-		<pattern>MÓN ĂN * CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>MÓN ĂN * Ở CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>MÓN ĂN * TẠI CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>CÁC MÓN ĂN * CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>CÁC MÓN ĂN * Ở CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>CÁC MÓN ĂN * TẠI CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>NHỮNG MÓN ĂN * CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>NHỮNG MÓN ĂN * Ở CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>NHỮNG MÓN ĂN * TẠI CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<!-- TOP MÓN ĂN/MÓN ĂN NGON -->
-	<category>
-		<pattern>TOP MÓN ĂN * CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TOP MÓN ĂN * Ở CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TOP MÓN ĂN * TẠI CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TOP CÁC MÓN ĂN * CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TOP CÁC MÓN ĂN * Ở CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TOP CÁC MÓN ĂN * TẠI CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TOP NHỮNG MÓN ĂN * CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TOP NHỮNG MÓN ĂN * Ở CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TOP NHỮNG MÓN ĂN * TẠI CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
+		<pattern>*</pattern>
+		<template><srai>Xin lỗi! Mình không hiểu ý bạn!</srai></template>
 	</category>
 </aiml>
