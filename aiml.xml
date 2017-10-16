@@ -263,320 +263,112 @@
 		<pattern>* CAN THO * MON *</pattern>
 		<template><srai>MON NGON CAN THO</srai></template>
 	</category>
+	<!-- MÓN ĂN/MÓN ĂN NGON -->
 	<category>
-		<pattern>MÓN ĂN CẦN THƠ</pattern>
+		<pattern>MÓN ĂN * CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>MÓN ĂN NGON CẦN THƠ</pattern>
+		<pattern>MÓN ĂN * Ở CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>MÓN ĂN NGON Ở CẦN THƠ</pattern>
+		<pattern>MÓN ĂN * TẠI CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>MÓN ĂN NGON CỦA CẦN THƠ</pattern>
+		<pattern>CÁC MÓN ĂN * CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>ĐI CẦN THƠ ĂN GÌ</pattern>
+		<pattern>CÁC MÓN ĂN * Ở CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>ĐI CẦN THƠ ĂN MÓN GÌ</pattern>
+		<pattern>CÁC MÓN ĂN * TẠI CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>ĐI CẦN THƠ KIẾM GÌ ĂN</pattern>
+		<pattern>NHỮNG MÓN ĂN * CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>ĐI CẦN THƠ TÌM GÌ ĂN</pattern>
+		<pattern>NHỮNG MÓN ĂN * Ở CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>ĂN GÌ Ở CẦN THƠ</pattern>
+		<pattern>NHỮNG MÓN ĂN * TẠI CẦN THƠ</pattern>
+		<template>
+			<srai>MON NGON CAN THO</srai>
+		</template>
+	</category>
+	<!-- TOP MÓN ĂN/MÓN ĂN NGON -->
+	<category>
+		<pattern>TOP MÓN ĂN * CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>ĂN CÁI GÌ Ở CẦN THƠ</pattern>
+		<pattern>TOP MÓN ĂN * Ở CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>ĂN CÁI CHI Ở CẦN THƠ</pattern>
+		<pattern>TOP MÓN ĂN * TẠI CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>ĂN GÌ KHI DU LỊCH CẦN THƠ</pattern>
+		<pattern>TOP CÁC MÓN ĂN * CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>ĂN MÓN GÌ KHI DU LỊCH CẦN THƠ</pattern>
+		<pattern>TOP CÁC MÓN ĂN * Ở CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>ĂN CÁI GÌ KHI DU LỊCH CẦN THƠ</pattern>
+		<pattern>TOP CÁC MÓN ĂN * TẠI CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>ĂN CÁI CHI KHI DU LỊCH CẦN THƠ</pattern>
+		<pattern>TOP NHỮNG MÓN ĂN * CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>CẦN THƠ CÓ GÌ ĐỂ ĂN</pattern>
+		<pattern>TOP NHỮNG MÓN ĂN * Ở CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>
 	</category>
 	<category>
-		<pattern>CẦN THƠ CÓ GÌ ĂN</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>MÓN NGON BỔ RẺ Ở CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>MÓN ĂN Ở CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>CÁC MÓN ĂN Ở CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>CẦN THƠ CÓ MÓN NÀO NGON</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>CẦN THƠ CÓ MÓN GÌ NGON</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>CẦN THƠ CÓ ĐẶC SẢN GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>MÓN NGON Ở CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>Ở CẦN THƠ ĂN GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>Ở CẦN THƠ ĂN MÓN GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>Ở CẦN THƠ ĂN CÁI GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>Ở CẦN THƠ ĂN MÓN CHI</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>Ở CẦN THƠ CÓ GÌ ĂN</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>CÁC MÓN NGON Ở CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>NHỮNG MÓN NGON Ở CẦN THƠ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TỚI CẦN THƠ ĂN GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TỚI CẦN THƠ THÌ ĂN GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TỚI CẦN THƠ ĂN CÁI GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TỚI CẦN THƠ ĂN MÓN GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TỚI CẦN THƠ ĂN CÁI CHI</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TỚI CẦN THƠ CÓ GÌ ĂN</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TỚI CẦN THƠ KIẾM GÌ ĂN</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>TỚI CẦN THƠ TÌM GÌ ĂN</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>ĐẾN CẦN THƠ ĂN GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>ĐẾN CẦN THƠ THÌ ĂN GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>ĐẾN CẦN THƠ ĂN CÁI GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>ĐẾN CẦN THƠ ĂN MÓN GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>ĐẾN CẦN THƠ ĂN CÁI CHI</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>ĐẾN CẦN THƠ CÓ GÌ ĂN</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>ĐẾN CẦN THƠ KIẾM GÌ ĂN</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>ĐẾN CẦN THƠ TÌM GÌ ĂN</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>DU LỊCH CẦN THƠ ĂN GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>DU LỊCH CẦN THƠ THÌ ĂN GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>DU LỊCH CẦN THƠ ĂN MÓN GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>DU LỊCH CẦN THƠ THÌ ĂN MÓN GÌ</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>DU LỊCH CẦN THƠ TÌM GÌ ĂN</pattern>
-		<template>
-			<srai>MON NGON CAN THO</srai>
-		</template>
-	</category>
-	<category>
-		<pattern>DU LỊCH CẦN THƠ KIẾM GÌ ĂN</pattern>
+		<pattern>TOP NHỮNG MÓN ĂN * TẠI CẦN THƠ</pattern>
 		<template>
 			<srai>MON NGON CAN THO</srai>
 		</template>

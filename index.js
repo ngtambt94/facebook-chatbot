@@ -183,6 +183,20 @@ function sendGenericMessage(sender) {
 }
 
 
+// chuyển đổi tiếng việt không dấu
+function convert(str){
+  str = str.toLowerCase();
+  str = str.replace(/à|á|ạ|ả|ã|â|ầ|ấ|ậ|ẩ|ẫ|ă|ằ|ắ|ặ|ẳ|ẵ/g, "a");
+  str = str.replace(/è|é|ẹ|ẻ|ẽ|ê|ề|ế|ệ|ể|ễ/g, "e");
+  str = str.replace(/ì|í|ị|ỉ|ĩ/g, "i");
+  str = str.replace(/ò|ó|ọ|ỏ|õ|ô|ồ|ố|ộ|ổ|ỗ|ơ|ờ|ớ|ợ|ở|ỡ/g, "o");
+  str = str.replace(/ù|ú|ụ|ủ|ũ|ư|ừ|ứ|ự|ử|ữ/g, "u");
+  str = str.replace(/ỳ|ý|ỵ|ỷ|ỹ/g, "y");
+  str = str.replace(/đ/g, "d");
+  return str;
+}
+
+
 // to post data
 app.post('/webhook', function (req, res) {
   let messaging_events = req.body.entry[0].messaging
@@ -193,7 +207,10 @@ app.post('/webhook', function (req, res) {
     // kiểm tra sự kiện có tin nhắn đến
     if (event.message && event.message.text) {
       let text = event.message.text;
-      
+      let temp = "";
+      for (var i = 0; i < text.length; i++) {
+        temp += convert(text[i]);
+      }
       // hàm callback trả về đáp án
       var callback = function(answer, wildCardArray, input){
         if (answer !== undefined && answer !== '') {
@@ -205,7 +222,7 @@ app.post('/webhook', function (req, res) {
       };
 
       // kiểm tra text với file aiml
-      aimlInterpreter.findAnswerInLoadedAIMLFiles(text, callback)
+      aimlInterpreter.findAnswerInLoadedAIMLFiles(temp, callback)
     }
   }
   res.sendStatus(200)
