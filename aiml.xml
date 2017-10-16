@@ -47,20 +47,22 @@
 	</category>
 	<!-- thông tin thêm -->
 	<category>
-		<pattern>* TAM LA *</pattern>
+		<pattern>TAM LA AI</pattern>
 		<template>
 			Tam Nguyen là sinh viên Khoa học máy tính, khóa 39, Trường Đại học Cần Thơ
 		</template>
+	</category>
+	<category>
+		<pattern>* TAM LA *</pattern>
+		<template><srai>TAM LA AI</srai></template>
 	</category>
 	<category>
 		<pattern>* TAM NGUYEN LA *</pattern>
-		<template>
-			Tam Nguyen là sinh viên Khoa học máy tính, khóa 39, Trường Đại học Cần Thơ
-		</template>
+		<template><srai>TAM LA AI</srai></template>
 	</category>
 	<category>
 		<pattern>* LA * TAM</pattern>
-		<template><srai>TAM LA AI *</srai></template>
+		<template><srai>TAM LA AI</srai></template>
 	</category>
 	<category>
 		<pattern>TAM * BAN GAI *</pattern>
@@ -69,14 +71,18 @@
 		</template>
 	</category>
 	<category>
-		<pattern>* BAN GAI * TAM *</pattern>
+		<pattern>BAN GAI TAM</pattern>
 		<template>
 			Quyen Tran cute
 		</template>
 	</category>
 	<category>
+		<pattern>* BAN GAI * TAM *</pattern>
+		<template><srai>BAN GAI TAM</srai></template>
+	</category>
+	<category>
 		<pattern>* BAN GAI TAM</pattern>
-		<template><srai>BAN GAI TAM *</srai></template>
+		<template><srai>BAN GAI TAM</srai></template>
 	</category>
 	<category>
 		<pattern>* QUYEN TRAN *</pattern>
@@ -200,11 +206,11 @@
 		<template><srai>KHACH SAN CAN THO</srai></template>
 	</category>
 	<category>
-		<pattern>* CAN THO * CHO NGHI *</pattern>
+		<pattern>* CAN THO * NGHI *</pattern>
 		<template><srai>KHACH SAN CAN THO</srai></template>
 	</category>
 	<category>
-		<pattern>* CHO NGHI * CAN THO *</pattern>
+		<pattern>* NGHI * CAN THO *</pattern>
 		<template><srai>KHACH SAN CAN THO</srai></template>
 	</category>
 	<category>
@@ -215,4 +221,29 @@
 		<pattern>* NGU * CAN THO *</pattern>
 		<template><srai>KHACH SAN CAN THO</srai></template>
 	</category>
+	<category>
+		<pattern>* CAN THO * MOTEL *</pattern>
+		<template><srai>KHACH SAN CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* MOTEL * CAN THO *</pattern>
+		<template><srai>KHACH SAN CAN THO</srai></template>
+	</category>
+	<!-- HOMESTAY CẦN THƠ-->
+	<category>
+		<pattern>HOMESTAY CAN THO</pattern>
+		<template>
+			Có thể bạn quan tâm:
+			Hưng Homestay: Khu vực Thạnh Huế, phường Thường Thạnh, quận Cái Răng, TP. Cần Thơ. SĐT: 0903849881
+		</template>
+	</category>
+	<category>
+		<pattern>* HOMESTAY * CAN THO *</pattern>
+		<template><srai>HOMESTAY CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * HOMESTAY *</pattern>
+		<template><srai>HOMESTAY CAN THO</srai></template>
+	</category>
+	<!-- HOẠT ĐỘNG CẦN THƠ -->
 </aiml>
