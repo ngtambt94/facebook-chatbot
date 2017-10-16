@@ -179,4 +179,40 @@
 		<pattern>* CAN THO * NGON *</pattern>
 		<template><srai>MON NGON CAN THO</srai></template>
 	</category>
+	<!-- KHÁCH SẠN Ở CẦN THƠ -->
+	<category>
+		<pattern>KHACH SAN CAN THO</pattern>
+		<template>
+			TOP 5 KHÁCH SẠN Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
+			1. Fortuneland: 141 Trần Văn Kheo , Cái Khê, Ninh Kiều, Cần Thơ
+			2. Holiday One Cần Thơ : 59-61-63-65 Phạm Ngọc Thạch, P.Cái Khế, Q.Ninh Kiều, TP. Cần Thơ
+			3. Viva green:  26 Hai Bà Trưng, Tân An, Ninh Kiều, Cần Thơ
+			4. Asia Cần Thơ:  91 Châu Văn Liêm, Cần Thơ
+			5. Khách sạn Madella: 48 Ngô Quyền, Tân An, Ninh Kiều, Cần Thơ
+		</template>
+	</category>
+	<category>
+		<pattern>* CAN THO * KHACH SAN *</pattern>
+		<template><srai>KHACH SAN CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* KHACH SAN * CAN THO *</pattern>
+		<template><srai>KHACH SAN CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * CHO NGHI *</pattern>
+		<template><srai>KHACH SAN CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CHO NGHI * CAN THO *</pattern>
+		<template><srai>KHACH SAN CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * NGU *</pattern>
+		<template><srai>KHACH SAN CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* NGU * CAN THO *</pattern>
+		<template><srai>KHACH SAN CAN THO</srai></template>
+	</category>
 </aiml>
