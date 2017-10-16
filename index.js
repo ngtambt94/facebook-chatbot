@@ -208,8 +208,8 @@ app.post('/webhook', function (req, res) {
     if (event.message && event.message.text) {
       let text = event.message.text;
       let temp = "";
-      for (var i = 0; i < text.length; i++) {
-        temp += convert(text[i]);
+      for (var j = 0; j < text.length; j++) {
+        temp += convert(text[j]);
       }
       // hàm callback trả về đáp án
       var callback = function(answer, wildCardArray, input){
