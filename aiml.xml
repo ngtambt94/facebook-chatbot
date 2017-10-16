@@ -302,27 +302,27 @@
 		<template><srai>DIA DIEM CAN THO</srai></template>
 	</category>
 	<category>
-		<pattern>* DI * CHOI * CAN THO *</pattern>
+		<pattern>* DI CHOI * CAN THO *</pattern>
 		<template><srai>DIA DIEM CAN THO</srai></template>
 	</category>
 	<category>
-		<pattern>* CAN THO * DI * CHOI *</pattern>
+		<pattern>* CAN THO * DI CHOI *</pattern>
 		<template><srai>DIA DIEM CAN THO</srai></template>
 	</category>
 	<category>
-		<pattern>* CHO * CHOI * CAN THO *</pattern>
+		<pattern>* CHO NAO CHOI * CAN THO *</pattern>
 		<template><srai>DIA DIEM CAN THO</srai></template>
 	</category>
 	<category>
-		<pattern>* CAN THO * CHO * CHOI *</pattern>
+		<pattern>* CAN THO * CHO NAO CHOI *</pattern>
 		<template><srai>DIA DIEM CAN THO</srai></template>
 	</category>
 	<category>
-		<pattern>* CHOI * O * CAN THO *</pattern>
+		<pattern>* CHOI O * CAN THO *</pattern>
 		<template><srai>DIA DIEM CAN THO</srai></template>
 	</category>
 	<category>
-		<pattern>* CAN THO * CHOI * O *</pattern>
+		<pattern>* CAN THO * CHOI O *</pattern>
 		<template><srai>DIA DIEM CAN THO</srai></template>
 	</category>
 </aiml>
