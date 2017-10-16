@@ -245,42 +245,6 @@
 		<pattern>* CAN THO * HOMESTAY *</pattern>
 		<template><srai>HOMESTAY CAN THO</srai></template>
 	</category>
-	<!-- HOẠT ĐỘNG CẦN THƠ -->
-	<category>
-		<pattern>HOAT DONG CAN THO</pattern>
-		<template>
-			TOP 5 HOẠT ĐỘNG Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
-			1. Tham quan, ăn uống, mua sắm ở Chợ Cần Thơ và Chợ đêm
-			2. Đi bộ dọc bến Ninh Kiều và Cầu Tình yêu
-			3. Tắm biển Cần Thơ
-			4. Ngắm cảnh sông trong đêm trên du thuyền
-			5. Cầu nguyện ở chùa Ông - ngôi chùa linh thiêng ở Cần Thơ
-		</template>
-	</category>
-	<category>
-		<pattern>* HOAT DONG * CAN THO *</pattern>
-		<template><srai>HOAT DONG CAN THO</srai></template>
-	</category>
-	<category>
-		<pattern>* CAN THO * HOAT DONG *</pattern>
-		<template><srai>HOAT DONG CAN THO</srai></template>
-	</category>
-	<category>
-		<pattern>* CHOI * CAN THO *</pattern>
-		<template><srai>HOAT DONG CAN THO</srai></template>
-	</category>
-	<category>
-		<pattern>* CAN THO * CHOI *</pattern>
-		<template><srai>HOAT DONG CAN THO</srai></template>
-	</category>
-	<category>
-		<pattern>* LAM * CAN THO *</pattern>
-		<template><srai>HOAT DONG CAN THO</srai></template>
-	</category>
-	<category>
-		<pattern>* CAN THO * LAM *</pattern>
-		<template><srai>HOAT DONG CAN THO</srai></template>
-	</category>
 	<!-- ĐỊA ĐIỂM VUI CHƠI -->
 	<category>
 		<pattern>DIA DIEM CAN THO</pattern>
@@ -324,5 +288,41 @@
 	<category>
 		<pattern>* CAN THO * CHOI O *</pattern>
 		<template><srai>DIA DIEM CAN THO</srai></template>
+	</category>
+	<!-- HOẠT ĐỘNG CẦN THƠ -->
+	<category>
+		<pattern>HOAT DONG CAN THO</pattern>
+		<template>
+			TOP 5 HOẠT ĐỘNG Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
+			1. Tham quan, ăn uống, mua sắm ở Chợ Cần Thơ và Chợ đêm
+			2. Đi bộ dọc bến Ninh Kiều và Cầu Tình yêu
+			3. Tắm biển Cần Thơ
+			4. Ngắm cảnh sông trong đêm trên du thuyền
+			5. Cầu nguyện ở chùa Ông - ngôi chùa linh thiêng ở Cần Thơ
+		</template>
+	</category>
+	<category>
+		<pattern>* HOAT DONG * CAN THO *</pattern>
+		<template><srai>HOAT DONG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * HOAT DONG *</pattern>
+		<template><srai>HOAT DONG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CHOI * CAN THO *</pattern>
+		<template><srai>HOAT DONG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * CHOI *</pattern>
+		<template><srai>HOAT DONG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* LAM * CAN THO *</pattern>
+		<template><srai>HOAT DONG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * LAM *</pattern>
+		<template><srai>HOAT DONG CAN THO</srai></template>
 	</category>
 </aiml>
