@@ -116,7 +116,7 @@
 		</template>
 	</category>
 	<category>
-		<pattern>* LA GI *</pattern>
+		<pattern>* LA * GI *</pattern>
 		<template>
 			Mình là TravelBot! Chatbot được tạo bởi Tam Nguyen.
 		</template>
