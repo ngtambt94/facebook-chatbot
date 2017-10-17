@@ -121,15 +121,11 @@
 	</category>
 	<category>
 		<pattern>AD *</pattern>
-		<template>
-			TravelBot ở đây! Bạn cần giúp gì?
-		</template>
+		<template><random><li>TravelBot ở đây! Bạn cần giúp gì?</li><li>Dạ em ở đây ạ. Em có thể giúp gì ạ?</li><li>Travel sẵn sàng phục vụ!</li></random></template>
 	</category>
 	<category>
 		<pattern>* AD * DAU *</pattern>
-		<template>
-			TravelBot ở đây! Bạn cần giúp gì?
-		</template>
+		<template><random><li>TravelBot ở đây! Bạn cần giúp gì?</li><li>Dạ em ở đây ạ. Em có thể giúp gì ạ?</li><li>Travel sẵn sàng phục vụ!</li></random></template>
 	</category>
 	<category>
 		<pattern>* MAY *</pattern>
