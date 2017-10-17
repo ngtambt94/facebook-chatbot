@@ -126,6 +126,12 @@
 		</template>
 	</category>
 	<category>
+		<pattern>ADMIN *</pattern>
+		<template>
+			TravelBot ở đây! Bạn cần giúp gì?
+		</template>
+	</category>
+	<category>
 		<pattern>* MAY *</pattern>
 		<template>
 			Sao kêu mình bằng mày?!		
