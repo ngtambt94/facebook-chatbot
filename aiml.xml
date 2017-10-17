@@ -149,7 +149,7 @@
 		<pattern>* SHIT *</pattern>
 		<template><srai>WTF *</srai></template>
 	</category>
-	<!-- món ăn ở cần thơ -->
+	<!-- MÓN ĂN CẦN THỚ -->
 	<category>
 		<pattern>MON NGON CAN THO</pattern>
 		<template>
@@ -324,5 +324,61 @@
 	<category>
 		<pattern>* CAN THO * LAM *</pattern>
 		<template><srai>HOAT DONG CAN THO</srai></template>
+	</category>
+	<!-- NHÀ HÀNG CẦN THƠ -->
+	<category
+		<pattern>NHA HANG CAN THO</pattern>
+		<template>
+			TOP 5 NHÀ HÀNG Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
+			1. Hoa Sứ: phường Cái Khế, quận Ninh Kiều, Cần Thơ
+			2. Mekong: 2/2 đường Nguyễn Trãi, quận Ninh Kiều, Cần Thơ
+			3. Nam Bộ: 1 đường Ngô Quyền, quận Ninh Kiều, Cần Thơ
+			4. Hoa Cau: 4 đường Hai Bà Trưng, quận Ninh Kiều, Cần Thơ
+			5. Ninh Kiều: 2 đường Hai Bà Trưng, quận Bình Thủy, Cần Thơ
+		</template>
+	</category>
+	<category>
+		<pattern>* CAN THO * NHA HANG *</pattern>
+		<template><srai>NHA HANG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* NHA HANG * CAN THO *</pattern>
+		<template><srai>NHA HANG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* QUAN * CAN THO *</pattern>
+		<template><srai>NHA HANG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * QUAN *</pattern>
+		<template><srai>NHA HANG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* AN O * CAN THO *</pattern>
+		<template><srai>NHA HANG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * AN O *</pattern>
+		<template><srai>NHA HANG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CHO NAO * CAN THO *</pattern>
+		<template><srai>NHA HANG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * CHO NAO *</pattern>
+		<template><srai>NHA HANG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* DI AN * CAN THO *</pattern>
+		<template><srai>NHA HANG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * DI AN *</pattern>
+		<template><srai>NHA HANG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * AN * DAU</pattern>
+		<template><srai>NHA HANG CAN THO</srai></template>
 	</category>
 </aiml>
