@@ -326,7 +326,7 @@
 		<template><srai>HOAT DONG CAN THO</srai></template>
 	</category>
 	<!-- NHÀ HÀNG CẦN THƠ -->
-	<category
+	<category>
 		<pattern>NHA HANG CAN THO</pattern>
 		<template>
 			TOP 5 NHÀ HÀNG Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
