@@ -99,7 +99,7 @@
 	</category>
 	<category>
 		<pattern>* GIUP *</pattern>
-		<template><srai>* HELP *</srai></template>
+		<template>Hi bạn! Bạn cần giúp gì? Chuyên môn của mình là cung cấp một số gợi ý về du lịch như địa điểm, món ăn, hoạt động vui chơi, ...</template>
 	</category>
 	<category>
 		<pattern>* CAN YOU HELP ME *</pattern>
@@ -110,24 +110,24 @@
 	<category>
 		<pattern>* WHO ARE YOU *</pattern>
 		<template>
-			Mình là TravelBot! Chatbot được tạo bởi Tam Nguyen.
+			Mình là TravelBot! Chatbot được tạo bởi Tam Nguyen. Chuyên môn của mình là cung cấp một số gợi ý về du lịch như địa điểm, món ăn, hoạt động vui chơi, ...
 		</template>
 	</category>	
 	<category>
 		<pattern>* LA AI *</pattern>
 		<template>
-			Mình là TravelBot! Chatbot được tạo bởi Tam Nguyen.
+			Mình là TravelBot! Chatbot được tạo bởi Tam Nguyen. Chuyên môn của mình là cung cấp một số gợi ý về du lịch như địa điểm, món ăn, hoạt động vui chơi, ...
 		</template>
 	</category>
 	<category>
 		<pattern>* LA * GI *</pattern>
 		<template>
-			Mình là TravelBot! Chatbot được tạo bởi Tam Nguyen.
+			Mình là TravelBot! Chatbot được tạo bởi Tam Nguyen. Chuyên môn của mình là cung cấp một số gợi ý về du lịch như địa điểm, món ăn, hoạt động vui chơi, ...
 		</template>
 	</category>
 	<category>
 		<pattern>* GIOI THIEU *</pattern>
-		<template><srai>* LA AI *</srai></template>
+		<template>Mình là TravelBot! Chatbot được tạo bởi Tam Nguyen. Chuyên môn của mình là cung cấp một số gợi ý về du lịch như địa điểm, món ăn, hoạt động vui chơi, ...</template>
 	</category>
 	<category>
 		<pattern>* TAO * BAN</pattern>
