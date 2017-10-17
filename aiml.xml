@@ -98,6 +98,10 @@
 		</template>
 	</category>
 	<category>
+		<pattern>* GIUP *</pattern>
+		<template><srai>* HELP *</srai></template>
+	</category>
+	<category>
 		<pattern>* CAN YOU HELP ME *</pattern>
 		<template>
 			Tất nhiên rồi! Bạn cần giúp gì? Chuyên môn của mình là cung cấp một số gợi ý về du lịch như địa điểm, món ăn, hoạt động vui chơi, ...
@@ -122,7 +126,11 @@
 		</template>
 	</category>
 	<category>
-		<pattern>AI * TAO * BAN</pattern>
+		<pattern>* GIOI THIEU *</pattern>
+		<template><srai>* LA AI *</srai></template>
+	</category>
+	<category>
+		<pattern>* TAO * BAN</pattern>
 		<template>Tam Nguyen đã tạo ra mình</template>
 	</category>
 	<category>
