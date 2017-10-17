@@ -94,13 +94,13 @@
 	<category>
 		<pattern>* HELP *</pattern>
 		<template>
-			Hi bạn! Bạn cần giúp gì?
+			Hi bạn! Bạn cần giúp gì? Chuyên môn của mình là cung cấp một số gợi ý về du lịch như địa điểm, món ăn, hoạt động vui chơi, ...
 		</template>
 	</category>
 	<category>
 		<pattern>* CAN YOU HELP ME *</pattern>
 		<template>
-			Tất nhiên rồi! Bạn cần giúp gì?
+			Tất nhiên rồi! Bạn cần giúp gì? Chuyên môn của mình là cung cấp một số gợi ý về du lịch như địa điểm, món ăn, hoạt động vui chơi, ...
 		</template>
 	</category>
 	<category>
@@ -110,7 +110,13 @@
 		</template>
 	</category>	
 	<category>
-		<pattern>* BAN LA AI *</pattern>
+		<pattern>* LA AI *</pattern>
+		<template>
+			Mình là TravelBot! Chatbot được tạo bởi Tam Nguyen.
+		</template>
+	</category>
+	<category>
+		<pattern>* LA GI *</pattern>
 		<template>
 			Mình là TravelBot! Chatbot được tạo bởi Tam Nguyen.
 		</template>
