@@ -165,6 +165,50 @@
 		<pattern>* SHIT *</pattern>
 		<template><srai>WTF *</srai></template>
 	</category>
+	<!-- ĐỊA ĐIỂM VUI CHƠI -->
+	<category>
+		<pattern>DIA DIEM CAN THO</pattern>
+		<template>
+			TOP 5 ĐỊA ĐIỂM VUI CHƠI Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
+			1. Làng du lịch sinh thái Mỹ Khánh
+			2. Thiền viền Trúc Lâm Phương Nam
+			3. Chợ nổi Cái Răng
+			4. Bến Ninh Kiều
+			5. Cồn Sơn
+		</template>
+	</category>
+	<category>
+		<pattern>* CAN THO * DIA DIEM *</pattern>
+		<template><srai>DIA DIEM CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* DIA DIEM * CAN THO *</pattern>
+		<template><srai>DIA DIEM CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* DI CHOI * CAN THO *</pattern>
+		<template><srai>DIA DIEM CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * DI CHOI *</pattern>
+		<template><srai>DIA DIEM CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CHO NAO CHOI * CAN THO *</pattern>
+		<template><srai>DIA DIEM CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * CHO NAO CHOI *</pattern>
+		<template><srai>DIA DIEM CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CHOI O * CAN THO *</pattern>
+		<template><srai>DIA DIEM CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * CHOI O *</pattern>
+		<template><srai>DIA DIEM CAN THO</srai></template>
+	</category>
 	<!-- NHÀ HÀNG CẦN THƠ -->
 	<category>
 		<pattern>NHA HANG CAN THO</pattern>
@@ -316,50 +360,6 @@
 	<category>
 		<pattern>* CAN THO * HOMESTAY *</pattern>
 		<template><srai>HOMESTAY CAN THO</srai></template>
-	</category>
-	<!-- ĐỊA ĐIỂM VUI CHƠI -->
-	<category>
-		<pattern>DIA DIEM CAN THO</pattern>
-		<template>
-			TOP 5 ĐỊA ĐIỂM VUI CHƠI Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
-			1. Làng du lịch sinh thái Mỹ Khánh
-			2. Thiền viền Trúc Lâm Phương Nam
-			3. Chợ nổi Cái Răng
-			4. Bến Ninh Kiều
-			5. Cồn Sơn
-		</template>
-	</category>
-	<category>
-		<pattern>* CAN THO * DIA DIEM *</pattern>
-		<template><srai>DIA DIEM CAN THO</srai></template>
-	</category>
-	<category>
-		<pattern>* DIA DIEM * CAN THO *</pattern>
-		<template><srai>DIA DIEM CAN THO</srai></template>
-	</category>
-	<category>
-		<pattern>* DI CHOI * CAN THO *</pattern>
-		<template><srai>DIA DIEM CAN THO</srai></template>
-	</category>
-	<category>
-		<pattern>* CAN THO * DI CHOI *</pattern>
-		<template><srai>DIA DIEM CAN THO</srai></template>
-	</category>
-	<category>
-		<pattern>* CHO NAO CHOI * CAN THO *</pattern>
-		<template><srai>DIA DIEM CAN THO</srai></template>
-	</category>
-	<category>
-		<pattern>* CAN THO * CHO NAO CHOI *</pattern>
-		<template><srai>DIA DIEM CAN THO</srai></template>
-	</category>
-	<category>
-		<pattern>* CHOI O * CAN THO *</pattern>
-		<template><srai>DIA DIEM CAN THO</srai></template>
-	</category>
-	<category>
-		<pattern>* CAN THO * CHOI O *</pattern>
-		<template><srai>DIA DIEM CAN THO</srai></template>
 	</category>
 	<!-- HOẠT ĐỘNG CẦN THƠ -->
 	<category>
