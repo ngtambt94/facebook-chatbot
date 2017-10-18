@@ -218,7 +218,7 @@ app.post('/webhook', function (req, res) {
         }
         // không tìm thấy đáp án
         else{
-          sendTextMessage(sender, "Câu hỏi của bạn mình sẽ học lại và trả lời trong tương lai");
+          sendTextMessage(sender, "Xin lỗi! Mình chưa hiểu rõ ý của bạn. Vui lòng nhập help để biết mình có thể giúp gì cho bạn.");
         }
       };
 

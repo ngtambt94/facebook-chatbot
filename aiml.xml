@@ -134,7 +134,7 @@
 		<template>Tam Nguyen đã tạo ra mình</template>
 	</category>
 	<category>
-		<pattern>AD *</pattern>
+		<pattern>* AD *</pattern>
 		<template><random><li>TravelBot ở đây! Bạn cần giúp gì?</li><li>Dạ em ở đây ạ. Em có thể giúp gì ạ?</li><li>Travel sẵn sàng phục vụ!</li></random></template>
 	</category>
 	<category>
