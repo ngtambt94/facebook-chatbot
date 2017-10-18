@@ -416,11 +416,11 @@
 	</category>
 	<category>
 		<pattern>* LE HOI * CAN THO *</pattern>
-		<template><srai>HOAT DONG CAN THO</srai></template>
+		<template><srai>LE HOI CAN THO</srai></template>
 	</category>
 	<category>
 		<pattern>* CAN THO * LE HOI *</pattern>
-		<template><srai>HOAT DONG CAN THO</srai></template>
+		<template><srai>LE HOI CAN THO</srai></template>
 	</category>
 	<!-- QUÀ TẶNG CẦN THƠ -->
 	<category>
@@ -436,10 +436,10 @@
 	</category>
 	<category>
 		<pattern>* QUA * CAN THO *</pattern>
-		<template><srai>HOAT DONG CAN THO</srai></template>
+		<template><srai>QUA CAN THO</srai></template>
 	</category>
 	<category>
 		<pattern>* CAN THO * QUA *</pattern>
-		<template><srai>HOAT DONG CAN THO</srai></template>
+		<template><srai>QUA CAN THO</srai></template>
 	</category>
 </aiml>
