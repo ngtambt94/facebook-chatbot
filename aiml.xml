@@ -265,7 +265,7 @@
 		<pattern>* CAN THO * AN * DAU</pattern>
 		<template><srai>NHA HANG CAN THO</srai></template>
 	</category>
-	<!-- MÓN ĂN CẦN THỚ -->
+	<!-- MÓN ĂN CẦN THƠ -->
 	<category>
 		<pattern>MON NGON CAN THO</pattern>
 		<template>
@@ -299,6 +299,14 @@
 	</category>
 	<category>
 		<pattern>* CAN THO * NGON *</pattern>
+		<template><srai>MON NGON CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* DAC SAN * CAN THO *</pattern>
+		<template><srai>MON NGON CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * DAC SAN *</pattern>
 		<template><srai>MON NGON CAN THO</srai></template>
 	</category>
 	<!-- KHÁCH SẠN Ở CẦN THƠ -->
@@ -395,6 +403,43 @@
 	</category>
 	<category>
 		<pattern>* CAN THO * LAM *</pattern>
+		<template><srai>HOAT DONG CAN THO</srai></template>
+	</category>
+	<!-- LỄ HỘI CẦN THƠ-->
+	<category>
+		<pattern>LE HOI CAN THO</pattern>
+		<template>
+			TOP CÁC LỄ HỘI Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
+			1. Lễ hội đình Bình Thủy:  14/4 - 15/4 và 15/12  âm lịch
+			2. Lễ đấu đèn: mỗi 10 năm tổ chức một lần
+		</template>
+	</category>
+	<category>
+		<pattern>* LE HOI * CAN THO *</pattern>
+		<template><srai>HOAT DONG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * LE HOI *</pattern>
+		<template><srai>HOAT DONG CAN THO</srai></template>
+	</category>
+	<!-- QUÀ TẶNG CẦN THƠ -->
+	<category>
+		<pattern>QUA CAN THO</pattern>
+		<template>
+			TOP 5 MÓN QUÀ PHỔ BIẾN Ở CẦN THƠ BẠN CÓ THỂ QUAN TÂM:
+			1. Bánh tét lá cẩm
+			2. Ca cao Phong Điền
+			3. Nem nướng Thanh Vân
+			4. Rượu Mận Sáu Tia Cần Thơ
+			5. Bánh tráng Thuận Hưng
+		</template>
+	</category>
+	<category>
+		<pattern>* QUA * CAN THO *</pattern>
+		<template><srai>HOAT DONG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * QUA *</pattern>
 		<template><srai>HOAT DONG CAN THO</srai></template>
 	</category>
 </aiml>
