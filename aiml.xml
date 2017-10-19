@@ -165,6 +165,17 @@
 		<pattern>* SHIT *</pattern>
 		<template><srai>WTF *</srai></template>
 	</category>
+	<!-- CẢM ƠN -->
+	<category>
+		<pattern>CAM ON</pattern>
+		<template>
+			Cảm ơn bạn đã sử dụng TravelBot. Hẹn gặp lại.
+		</template>
+	</category>
+	<category>
+		<pattern>* CAM ON *</pattern>
+		<template><srai>CAM ON</srai></template>
+	</category>
 	<!-- ĐỊA ĐIỂM VUI CHƠI -->
 	<category>
 		<pattern>DIA DIEM CAN THO</pattern>
