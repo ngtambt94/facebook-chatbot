@@ -42,7 +42,7 @@
 		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
 	</category>
 	<category>
-		<pattern>HOM NAY BAN THE NAO *</pattern>
+		<pattern>HOM NAY * THE NAO *</pattern>
 		<template><random><li>Không thể tốt hơn!</li><li>Mình luôn sẵn sàng giúp đỡ bạn!</li><li>Khỏe re luôn. Hôm nay bạn cần gì?</li></random></template>
 	</category>
 	<!-- thông tin thêm -->
