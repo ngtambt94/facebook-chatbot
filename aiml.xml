@@ -405,6 +405,14 @@
 		<pattern>* CAN THO * LAM *</pattern>
 		<template><srai>HOAT DONG CAN THO</srai></template>
 	</category>
+	<category>
+		<pattern>* VUI * CAN THO *</pattern>
+		<template><srai>HOAT DONG CAN THO</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN THO * VUI *</pattern>
+		<template><srai>HOAT DONG CAN THO</srai></template>
+	</category>
 	<!-- LỄ HỘI CẦN THƠ-->
 	<category>
 		<pattern>LE HOI CAN THO</pattern>
